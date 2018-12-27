@@ -1,0 +1,3 @@
+module.exports = {
+    myAccessToken: 'myM4st0d0nAccessT0k3n'
+}
