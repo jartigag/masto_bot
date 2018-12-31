@@ -15,7 +15,7 @@ const M = new Mastodon({
     api_url: 'https://botsin.space/api/v1/', // optional, defaults to https://mastodon.social/api/v1/
 });
 
-var feedData = JSON.parse( fs.readFileSync('./feed1.json') );
+var feedData = JSON.parse( fs.readFileSync('../feed1.json') );
 for(var i=0; i<3; i++){ //TODO: feedData.length
     toot(feedData[i]);
     //setInterval( toot(feedData[i]), 5000 ); //FIXME: how to wait here?

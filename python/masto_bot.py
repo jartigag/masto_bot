@@ -4,6 +4,9 @@
 #
 # usage: python3 masto_bot.py
 
+#TODO: - parse datetimes
+#      - if now>datetime.strptime(date,'%format'):
+
 __author__ = "@jartigag"
 __version__ = "0.1"
 
@@ -13,7 +16,7 @@ from mastodon import Mastodon
 from secrets import access_token
 from time import sleep
 
-feedData = json.load(open('../feed1.json'),object_pairs_hook=OrderedDict)
+feedData = json.load(open('../feed2.json'),object_pairs_hook=OrderedDict)
 
 mastodon = Mastodon( access_token=access_token, api_base_url='https://botsin.space')
 
