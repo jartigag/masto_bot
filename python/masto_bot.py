@@ -5,7 +5,7 @@
 # usage: python3 masto_bot.py
 
 __author__ = "@jartigag"
-__version__ = "0.1"
+__version__ = "0.2"      # it toots a link to the song on youtube
 
 import json
 from collections import OrderedDict
@@ -37,7 +37,7 @@ while i<len(feedData):
 		query_string = urllib.parse.urlencode({"search_query" : d['song']+" "+d['artist']})
 		html_content = urllib.request.urlopen("http://www.youtube.com/results?" + query_string)
 		search_results = re.findall(r'href=\"\/watch\?v=(.{11})', html_content.read().decode())
-		video = "http://www.youtube.com/watch?v=" + search_results[0]
+		video = "https://www.youtu.be/" + search_results[0]
 
 		try:
 			toot = mastodon.toot( '{}, by {} \n♪ ♫ ♬\n#np #nowPlaying #inFact #2yearsAgo_playing\n{}'.format(d['song'],d['artist'],video) )
