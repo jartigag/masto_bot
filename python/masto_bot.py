@@ -13,6 +13,9 @@ from mastodon import Mastodon
 from secrets import access_token
 from time import sleep
 from datetime import datetime, timedelta
+import urllib.request
+import urllib.parse
+import re
 
 feedData = json.load(
 	open('../feed2.json'),object_pairs_hook=OrderedDict
@@ -30,8 +33,14 @@ while i<len(feedData):
 		#print time at 0,15,30,45
 		print(now.strftime('%Y-%m-%d %H:%M:%S'))
 	if (now-timedelta(days=365*2)) > nextDatetime:
+
+		query_string = urllib.parse.urlencode({"search_query" : d['song']+" "+d['artist']})
+		html_content = urllib.request.urlopen("http://www.youtube.com/results?" + query_string)
+		search_results = re.findall(r'href=\"\/watch\?v=(.{11})', html_content.read().decode())
+		video = "http://www.youtube.com/watch?v=" + search_results[0]
+
 		try:
-			toot = mastodon.toot( '{}, by {} \n♪ ♫ ♬\n#np #nowPlaying #inFact #2yearsAgo_playing'.format(d['song'],d['artist']) )
+			toot = mastodon.toot( '{}, by {} \n♪ ♫ ♬\n#np #nowPlaying #inFact #2yearsAgo_playing\n{}'.format(d['song'],d['artist'],video) )
 			print( '\nsuccessfully tooted at {}: {}'.format(toot.created_at.strftime('%Y-%m-%d %H:%M:%S'),toot.url) );
 			i+=1
 		except Exception as e:

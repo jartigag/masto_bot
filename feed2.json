@@ -1,674 +1,122 @@
 [
   {
-    "artist": "Barry White",
-    "album": "Can't Get Enough",
-    "song": "Can't Get Enough Of Your Love Babe",
-    "datetime": "07 Jan 2017 22:58"
-  },
-  {
-    "artist": "Barry White",
-    "album": "The Ultimate Collection",
-    "song": "Just The Way You Are - Single Version",
-    "datetime": "07 Jan 2017 22:53"
-  },
-  {
-    "artist": "Barry White",
-    "album": "The Ultimate Collection",
-    "song": "Can't Get Enough Of Your Love Babe",
-    "datetime": "07 Jan 2017 22:51"
-  },
-  {
-    "artist": "Sly & The Family Stone",
-    "album": "There's a Riot Goin' On",
-    "song": "Family Affair - Single Version",
-    "datetime": "07 Jan 2017 22:47"
-  },
-  {
-    "artist": "Sly & The Family Stone",
-    "album": "The Essential Sly & The Family Stone",
-    "song": "Thank You (Falettinme Be Mice Elf Agin) - single master",
-    "datetime": "07 Jan 2017 22:43"
-  },
-  {
-    "artist": "James Brown",
-    "album": "20 All-Time Greatest Hits!",
-    "song": "Papa's Got A Brand New Bag",
-    "datetime": "07 Jan 2017 22:40"
-  },
-  {
-    "artist": "Tower of Power",
-    "album": "Tower Of Power",
-    "song": "What Is Hip?",
-    "datetime": "07 Jan 2017 22:35"
-  },
-  {
-    "artist": "George Clinton",
-    "album": "Greatest Hits: Straight Up",
-    "song": "Atomic Dog - 2000 - Remaster",
-    "datetime": "07 Jan 2017 22:31"
-  },
-  {
-    "artist": "James Brown",
-    "album": "20 All-Time Greatest Hits!",
-    "song": "Say It Loud - I'm Black And I'm Proud",
-    "datetime": "07 Jan 2017 22:28"
-  },
-  {
-    "artist": "Michael Jackson",
-    "album": "Bad (Remastered)",
-    "song": "Smooth Criminal - 2012 Remaster",
-    "datetime": "07 Jan 2017 22:23"
-  },
-  {
-    "artist": "Eddie Kendricks",
-    "album": "The Eddie Kendricks Collection Volume 1",
-    "song": "Keep On Truckin'",
-    "datetime": "07 Jan 2017 20:19"
-  },
-  {
-    "artist": "Sly & The Family Stone",
-    "album": "There's a Riot Goin' On",
-    "song": "Family Affair - Single Version",
-    "datetime": "07 Jan 2017 20:16"
-  },
-  {
-    "artist": "George Clinton",
-    "album": "Greatest Hits: Straight Up",
-    "song": "Atomic Dog - 2000 - Remaster",
-    "datetime": "07 Jan 2017 20:11"
-  },
-  {
-    "artist": "Sly & The Family Stone",
-    "album": "The Essential Sly & The Family Stone",
-    "song": "Thank You (Falettinme Be Mice Elf Agin) - single master",
-    "datetime": "07 Jan 2017 20:07"
-  },
-  {
-    "artist": "The Isley Brothers",
-    "album": "It's Our Thing",
-    "song": "It's Your Thing",
-    "datetime": "07 Jan 2017 20:04"
-  },
-  {
-    "artist": "The Meters",
-    "album": "Funkify Your Life: The Meters Anthology",
-    "song": "Cissy Strut",
-    "datetime": "07 Jan 2017 20:01"
-  },
-  {
-    "artist": "The Meters",
-    "album": "Funkify Your Life: The Meters Anthology",
-    "song": "Sophisticated Cissy",
-    "datetime": "07 Jan 2017 19:58"
-  },
-  {
-    "artist": "The Clash",
-    "album": "Combat Rock",
-    "song": "Should I Stay or Should I Go",
-    "datetime": "07 Jan 2017 19:51"
-  },
-  {
-    "artist": "The Clash",
-    "album": "Combat Rock",
-    "song": "Should I Stay or Should I Go",
-    "datetime": "07 Jan 2017 19:47"
-  },
-  {
-    "artist": "Tower of Power",
-    "album": "Soul With A Capital S - The Best Of Tower Of Power",
-    "song": "Soul With A Capital 'S'",
-    "datetime": "07 Jan 2017 19:38"
-  },
-  {
-    "artist": "Michael Jackson",
-    "album": "Thriller 25 Super Deluxe Edition",
-    "song": "Billie Jean - Single Version",
-    "datetime": "07 Jan 2017 19:35"
-  },
-  {
-    "artist": "James Brown",
-    "album": "The Singles Vol. 7: 1970-1972",
-    "song": "Sex Machine",
-    "datetime": "07 Jan 2017 12:59"
-  },
-  {
-    "artist": "Bee Gees",
-    "album": "Saturday Night Fever [The Original Movie Soundtrack]",
-    "song": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever",
-    "datetime": "07 Jan 2017 12:54"
-  },
-  {
-    "artist": "James Brown",
-    "album": "20 All-Time Greatest Hits!",
-    "song": "Papa's Got A Brand New Bag",
-    "datetime": "07 Jan 2017 12:52"
-  },
-  {
-    "artist": "Michael Jackson",
-    "album": "Bad (Remastered)",
-    "song": "Smooth Criminal - 2012 Remaster",
-    "datetime": "07 Jan 2017 12:48"
-  },
-  {
-    "artist": "Michael Jackson",
-    "album": "Thriller",
-    "song": "Thriller",
-    "datetime": "07 Jan 2017 12:42"
-  },
-  {
-    "artist": "James Brown",
-    "album": "Get On Up - The James Brown Story (Original Motion Picture Soundtrack)",
-    "song": "I Got You (I Feel Good)",
-    "datetime": "07 Jan 2017 12:38"
-  },
-  {
-    "artist": "Michael Jackson",
-    "album": "Bad (Remastered)",
-    "song": "Bad - 2012 Remaster",
-    "datetime": "07 Jan 2017 12:32"
-  },
-  {
-    "artist": "Stevie Wonder",
-    "album": "Fulfillingness' First Finale (Reissue)",
-    "song": "You Haven't Done Nothin'",
-    "datetime": "07 Jan 2017 12:29"
-  },
-  {
-    "artist": "Michael Jackson",
-    "album": "Thriller 25 Super Deluxe Edition",
-    "song": "Billie Jean - Single Version",
-    "datetime": "07 Jan 2017 12:16"
-  },
-  {
-    "artist": "Stevie Wonder",
-    "album": "Number Ones",
-    "song": "Superstition",
-    "datetime": "07 Jan 2017 12:12"
-  },
-  {
-    "artist": "Marvin Gaye",
-    "album": "Midnight Love",
-    "song": "Sexual Healing",
-    "datetime": "07 Jan 2017 11:47"
-  },
-  {
-    "artist": "Little Richard",
-    "album": "Directly From My Heart: The Best of the Specialty & Vee-Jay Years",
-    "song": "She Knows How to Rock",
-    "datetime": "07 Jan 2017 11:43"
-  },
-  {
-    "artist": "Little Richard",
-    "album": "The Georgia Peach",
-    "song": "Tutti Frutti",
-    "datetime": "07 Jan 2017 11:40"
-  },
-  {
-    "artist": "Simple Minds",
-    "album": "Once Upon A Time",
-    "song": "Alive and Kicking",
-    "datetime": "06 Jan 2017 21:23"
-  },
-  {
-    "artist": "Marvin Gaye",
-    "album": "Anthology: The Best Of Marvin Gaye",
-    "song": "I Heard It Through The Grapevine - Single Version (Mono)",
-    "datetime": "06 Jan 2017 21:20"
-  },
-  {
-    "artist": "La Raíz",
-    "album": "Entre Poetas y Presos",
-    "song": "Radio Clandestina",
-    "datetime": "06 Jan 2017 20:20"
-  },
-  {
-    "artist": "Piperrak",
-    "album": "Arde Ribera",
-    "song": "Mi primer amor",
-    "datetime": "06 Jan 2017 20:17"
-  },
-  {
-    "artist": "Chic",
-    "album": "Chic",
-    "song": "Everybody Dance",
-    "datetime": "06 Jan 2017 13:06"
-  },
-  {
-    "artist": "Donna Summer",
-    "album": "Love to Love You Baby",
-    "song": "Love to Love You Baby",
-    "datetime": "06 Jan 2017 12:57"
-  },
-  {
-    "artist": "George McCrae",
-    "album": "Rock Your Baby",
-    "song": "Rock Your Baby",
-    "datetime": "06 Jan 2017 12:54"
-  },
-  {
-    "artist": "Willie Bobo",
-    "album": "Bobo Motion",
-    "song": "Evil Ways",
-    "datetime": "06 Jan 2017 12:51"
-  },
-  {
-    "artist": "Santana",
-    "album": "Santana (Legacy Edition)",
-    "song": "Fried Neck Bones And Some Home Fries",
-    "datetime": "06 Jan 2017 12:43"
-  },
-  {
-    "artist": "Santana",
-    "album": "Santana (Legacy Edition)",
-    "song": "Soul Sacrifice",
-    "datetime": "05 Jan 2017 14:10"
-  },
-  {
-    "artist": "Grateful Dead",
-    "album": "Workingman's Dead",
-    "song": "New Speedway Boogie",
-    "datetime": "05 Jan 2017 14:06"
-  },
-  {
-    "artist": "James Brown",
-    "album": "20 All-Time Greatest Hits!",
-    "song": "Papa's Got A Brand New Bag",
-    "datetime": "05 Jan 2017 14:04"
-  },
-  {
-    "artist": "James Brown",
-    "album": "20 All-Time Greatest Hits!",
-    "song": "Night Train - Single Version",
-    "datetime": "05 Jan 2017 14:01"
-  },
-  {
-    "artist": "James Brown",
-    "album": "20 All-Time Greatest Hits!",
-    "song": "Say It Loud - I'm Black And I'm Proud",
-    "datetime": "05 Jan 2017 13:57"
-  },
-  {
-    "artist": "The Four Tops",
-    "album": "The Definitive Collection",
-    "song": "I Can't Help Myself (Sugar Pie Honey Bunch)",
-    "datetime": "05 Jan 2017 13:55"
-  },
-  {
-    "artist": "The Miracles",
-    "album": "Motown: The Complete No. 1's",
-    "song": "Shop Around",
-    "datetime": "05 Jan 2017 13:52"
-  },
-  {
-    "artist": "Smokey Robinson and The Miracles",
-    "album": "The Definitive Collection",
-    "song": "The Tracks of My Tears",
-    "datetime": "05 Jan 2017 13:49"
-  },
-  {
-    "artist": "Martha Reeves & The Vandellas",
-    "album": "Vocal Group Hall of Fame 2003 Live Induction Concerts Vol 2",
-    "song": "Dancing In The Streets",
-    "datetime": "05 Jan 2017 13:44"
-  },
-  {
-    "artist": "Little Richard",
-    "album": "Directly From My Heart: The Best of the Specialty & Vee-Jay Years",
-    "song": "She Knows How to Rock",
-    "datetime": "05 Jan 2017 13:42"
-  },
-  {
-    "artist": "Little Richard",
-    "album": "The Georgia Peach",
-    "song": "Tutti Frutti",
-    "datetime": "05 Jan 2017 13:40"
-  },
-  {
-    "artist": "Little Richard",
-    "album": "The Georgia Peach",
-    "song": "Keep A Knockin",
-    "datetime": "05 Jan 2017 13:38"
-  },
-  {
-    "artist": "Little Richard",
-    "album": "The Georgia Peach",
-    "song": "Rip It Up",
-    "datetime": "05 Jan 2017 13:35"
-  },
-  {
-    "artist": "Beyoncé",
-    "album": "I Am... Sasha Fierce",
-    "song": "Single Ladies (Put a Ring on It)",
-    "datetime": "05 Jan 2017 13:32"
-  },
-  {
-    "artist": "Avicii",
-    "album": "I Could Be The One [Avicii vs Nicky Romero]",
-    "song": "I Could Be The One (Avicii Vs. Nicky Romero) - Nicktim / Radio Edit",
-    "datetime": "05 Jan 2017 13:29"
-  },
-  {
-    "artist": "Peaches & Herb",
-    "album": "2 Hot!",
-    "song": "Shake Your Groove Thing",
-    "datetime": "05 Jan 2017 13:23"
-  },
-  {
-    "artist": "James Brown",
-    "album": "Gold",
-    "song": "Soul Power - Single Version",
-    "datetime": "05 Jan 2017 13:20"
-  },
-  {
-    "artist": "Daft Punk",
-    "album": "Random Access Memories",
-    "song": "Lose Yourself to Dance (feat. Pharrell Williams)",
-    "datetime": "05 Jan 2017 13:14"
-  },
-  {
-    "artist": "Los Gandules",
-    "album": "",
-    "song": "Mejenejando",
-    "datetime": "04 Jan 2017 20:01"
-  },
-  {
     "artist": "Kaiser Chiefs",
     "album": "Stay Together",
     "song": "Press Rewind",
-    "datetime": "01 Jan 2017 17:04"
+    "datetime": "02 Jan 2017 17:04"
   },
   {
     "artist": "Kaiser Chiefs",
     "album": "Stay Together",
     "song": "Indoor Firework",
-    "datetime": "01 Jan 2017 17:01"
+    "datetime": "02 Jan 2017 17:01"
   },
   {
     "artist": "Kaiser Chiefs",
     "album": "Stay Together",
     "song": "Why Do You Do It To Me?",
-    "datetime": "01 Jan 2017 16:56"
+    "datetime": "02 Jan 2017 16:56"
   },
   {
     "artist": "Kaiser Chiefs",
     "album": "Stay Together",
     "song": "Good Clean Fun",
-    "datetime": "01 Jan 2017 16:51"
+    "datetime": "02 Jan 2017 16:51"
   },
   {
     "artist": "Kaiser Chiefs",
     "album": "Stay Together",
     "song": "Parachute",
-    "datetime": "01 Jan 2017 16:47"
+    "datetime": "02 Jan 2017 16:47"
   },
   {
     "artist": "Kaiser Chiefs",
     "album": "Stay Together",
     "song": "Hole in My Soul",
-    "datetime": "01 Jan 2017 16:43"
+    "datetime": "02 Jan 2017 16:43"
   },
   {
     "artist": "Kaiser Chiefs",
     "album": "Stay Together",
     "song": "We Stay Together",
-    "datetime": "01 Jan 2017 16:38"
+    "datetime": "02 Jan 2017 16:38"
   },
   {
     "artist": "The Libertines",
     "album": "Time for Heroes - The Best of the Libertines",
     "song": "What Became of the Likely Lads",
-    "datetime": "01 Jan 2017 16:35"
+    "datetime": "02 Jan 2017 16:35"
   },
   {
     "artist": "The Libertines",
     "album": "Time for Heroes - The Best of the Libertines",
     "song": "I Get Along",
-    "datetime": "01 Jan 2017 16:32"
+    "datetime": "02 Jan 2017 16:32"
   },
   {
     "artist": "The Libertines",
     "album": "Time for Heroes - The Best of the Libertines",
     "song": "Death on the Stairs",
-    "datetime": "01 Jan 2017 16:28"
+    "datetime": "02 Jan 2017 16:28"
   },
   {
     "artist": "U2",
     "album": "The Unforgettable Fire (Remastered)",
     "song": "Pride (In The Name Of Love) - Remastered",
-    "datetime": "01 Jan 2017 16:24"
+    "datetime": "02 Jan 2017 16:24"
   },
   {
     "artist": "Suzanne Vega",
     "album": "Solitude Standing",
     "song": "Tom's Diner",
-    "datetime": "01 Jan 2017 16:14"
+    "datetime": "02 Jan 2017 16:14"
   },
   {
     "artist": "Dexys Midnight Runners",
     "album": "Too Rye Ay (Deluxe Edition)",
     "song": "Come on Eileen",
-    "datetime": "01 Jan 2017 14:56"
+    "datetime": "02 Jan 2017 14:56"
   },
   {
     "artist": "Barrabas",
     "album": "¡vive!",
     "song": "Hi-Jack",
-    "datetime": "01 Jan 2017 14:53"
+    "datetime": "02 Jan 2017 14:53"
   },
   {
     "artist": "The Buggles",
     "album": "The Age of Plastic (remastered)",
     "song": "Video Killed the Radio Star",
-    "datetime": "01 Jan 2017 14:48"
+    "datetime": "02 Jan 2017 14:48"
   },
   {
     "artist": "Imagination",
     "album": "In the Heat Of The Night",
     "song": "Music and Lights",
-    "datetime": "01 Jan 2017 14:43"
+    "datetime": "02 Jan 2017 14:43"
   },
   {
     "artist": "Darude",
     "album": "Before the Storm Special Edition",
     "song": "Sandstorm",
-    "datetime": "01 Jan 2017 14:38"
+    "datetime": "02 Jan 2017 14:38"
   },
   {
     "artist": "Madcon",
     "album": "Don't Worry (feat. Ray Dalton)",
     "song": "Don't Worry",
-    "datetime": "01 Jan 2017 14:33"
+    "datetime": "02 Jan 2017 14:33"
   },
   {
     "artist": "Fundación Tony Manero",
     "album": "Looking For La Fiesta",
     "song": "Supersexy Girl",
-    "datetime": "01 Jan 2017 14:29"
+    "datetime": "02 Jan 2017 14:29"
   },
   {
     "artist": "ABBA",
     "album": "Waterloo",
     "song": "Waterloo",
-    "datetime": "01 Jan 2017 14:26"
-  },
-  {
-    "artist": "Orquesta Poncela",
-    "album": "Calentito Calentito",
-    "song": "Mojo Picón",
-    "datetime": "01 Jan 2017 14:23"
-  },
-  {
-    "artist": "The Gibson Brothers",
-    "album": "Disco Hits 70",
-    "song": "Cuba",
-    "datetime": "01 Jan 2017 14:18"
-  },
-  {
-    "artist": "Tony Ronald",
-    "album": "20 Grandes Exitos",
-    "song": "Dejare la Llave en Mi Puerta",
-    "datetime": "01 Jan 2017 14:15"
-  },
-  {
-    "artist": "Tom Jones",
-    "album": "The Matador (Original Motion Picture Soundtrack)",
-    "song": "It's Not Unusual",
-    "datetime": "01 Jan 2017 14:13"
-  },
-  {
-    "artist": "Los Diablos",
-    "album": "Grandes Éxitos",
-    "song": "Fin de Semana",
-    "datetime": "01 Jan 2017 14:10"
-  },
-  {
-    "artist": "Karina",
-    "album": "Colección Diamante: Karina",
-    "song": "Las Flechas del Amor",
-    "datetime": "01 Jan 2017 14:08"
-  },
-  {
-    "artist": "Cliff Richard",
-    "album": "40 Golden Greats",
-    "song": "Congratulations",
-    "datetime": "01 Jan 2017 14:05"
-  },
-  {
-    "artist": "Marian Conde",
-    "album": "A Bailar Rumba",
-    "song": "Taka Takata",
-    "datetime": "01 Jan 2017 14:02"
-  },
-  {
-    "artist": "Peret",
-    "album": "Éxitos Grandes",
-    "song": "El muerto vivo",
-    "datetime": "01 Jan 2017 13:59"
-  },
-  {
-    "artist": "Gipsy Kings",
-    "album": "Latin Summer",
-    "song": "Volare",
-    "datetime": "01 Jan 2017 13:56"
-  },
-  {
-    "artist": "Los Amaya",
-    "album": "Las 101 canciones - Cinco décadas de Pop Español",
-    "song": "Caramelos",
-    "datetime": "01 Jan 2017 13:54"
-  },
-  {
-    "artist": "Miguel Bosé",
-    "album": "Miguel",
-    "song": "Don Diablo",
-    "datetime": "01 Jan 2017 13:50"
-  },
-  {
-    "artist": "Miriam Makeba",
-    "album": "Pata Pata",
-    "song": "Pata Pata",
-    "datetime": "01 Jan 2017 13:47"
-  },
-  {
-    "artist": "Celtas Cortos",
-    "album": "Nos Vemos En Los Bares",
-    "song": "20 De Abril",
-    "datetime": "01 Jan 2017 13:43"
-  },
-  {
-    "artist": "Gabinete Caligari",
-    "album": "Al calor del amor en un bar",
-    "song": "El Calor del Amor En un Bar",
-    "datetime": "01 Jan 2017 13:40"
-  },
-  {
-    "artist": "Union La",
-    "album": "Mil Siluetas",
-    "song": "Lobo-Hombre En París",
-    "datetime": "01 Jan 2017 13:36"
-  },
-  {
-    "artist": "The Jacksons",
-    "album": "The Essential Michael Jackson",
-    "song": "Blame It on the Boogie",
-    "datetime": "01 Jan 2017 13:33"
-  },
-  {
-    "artist": "Baha Men",
-    "album": "Who Let the Dogs Out",
-    "song": "Who Let the Dogs Out",
-    "datetime": "01 Jan 2017 13:29"
-  },
-  {
-    "artist": "Kate Ryan",
-    "album": "Ella Elle L'a",
-    "song": "Ella elle l'a",
-    "datetime": "01 Jan 2017 13:26"
-  },
-  {
-    "artist": "Desireless",
-    "album": "François",
-    "song": "Voyage voyage",
-    "datetime": "01 Jan 2017 13:22"
-  },
-  {
-    "artist": "The Killers",
-    "album": "Hot Fuss (Deluxe Version)",
-    "song": "Somebody Told Me",
-    "datetime": "01 Jan 2017 13:19"
-  },
-  {
-    "artist": "Los Ronaldos",
-    "album": "Adiós Papá",
-    "song": "Adios papa",
-    "datetime": "01 Jan 2017 13:14"
-  },
-  {
-    "artist": "Johnny Hallyday",
-    "album": "Born Rocker Tour (Live au Théâtre de Paris)",
-    "song": "Rock'n'Roll Man - Théâtre de Paris 2013",
-    "datetime": "01 Jan 2017 13:11"
-  },
-  {
-    "artist": "Polansky y El Ardor",
-    "album": "Ataque Preventivo de la U.R.S.S.",
-    "song": "Ataque Preventivo De La URSS",
-    "datetime": "01 Jan 2017 13:07"
-  },
-  {
-    "artist": "Siniestro Total",
-    "album": "Bailare Sobre Tu Tumba (second edition)",
-    "song": "Bailaré Sobre tu Tumba",
-    "datetime": "01 Jan 2017 13:05"
-  },
-  {
-    "artist": "Loquillo Y Los Trogloditas",
-    "album": "El Ritmo Del Garaje y Dónde Estabas Tú En El 77.",
-    "song": "Quiero Un Camion",
-    "datetime": "01 Jan 2017 13:02"
-  },
-  {
-    "artist": "Mano Negra",
-    "album": "Best Of 2005",
-    "song": "King Kong five",
-    "datetime": "01 Jan 2017 13:00"
-  },
-  {
-    "artist": "Los Fabulosos Cadillacs",
-    "album": "Los Fabulosos Cadillacs - El Matador",
-    "song": "El Matador",
-    "datetime": "01 Jan 2017 12:57"
-  },
-  {
-    "artist": "Seguridad Social",
-    "album": "De Amor",
-    "song": "Comerranas - Directo",
-    "datetime": "01 Jan 2017 12:54"
-  },
-  {
-    "artist": "Madness",
-    "album": "One Step Beyond",
-    "song": "One Step Beyond",
-    "datetime": "01 Jan 2017 12:52"
+    "datetime": "02 Jan 2017 14:26"
   }
 ]

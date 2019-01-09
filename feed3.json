@@ -1,0 +1,2978 @@
+[
+  {
+    "artist": "Foo Fighters",
+    "album": "Greatest Hits",
+    "song": "Best of You",
+    "datetime": "21 Jan 2017 16:14"
+  },
+  {
+    "artist": "Foo Fighters",
+    "album": "Greatest Hits",
+    "song": "All My Life",
+    "datetime": "21 Jan 2017 16:10"
+  },
+  {
+    "artist": "Foo Fighters",
+    "album": "Greatest Hits",
+    "song": "Everlong - acoustic version",
+    "datetime": "21 Jan 2017 16:06"
+  },
+  {
+    "artist": "Foo Fighters",
+    "album": "There Is Nothing Left to Lose",
+    "song": "Learn to Fly",
+    "datetime": "21 Jan 2017 16:02"
+  },
+  {
+    "artist": "Foo Fighters",
+    "album": "In Your Honor",
+    "song": "Best of You",
+    "datetime": "21 Jan 2017 15:56"
+  },
+  {
+    "artist": "Foo Fighters",
+    "album": "The Colour and the Shape",
+    "song": "Everlong",
+    "datetime": "21 Jan 2017 15:52"
+  },
+  {
+    "artist": "Foo Fighters",
+    "album": "Echoes Silence Patience & Grace",
+    "song": "The Pretender",
+    "datetime": "21 Jan 2017 15:47"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Pudo Pasar",
+    "datetime": "21 Jan 2017 13:21"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Para Quedarte",
+    "datetime": "21 Jan 2017 13:16"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Canción Final",
+    "datetime": "21 Jan 2017 13:12"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Querría",
+    "datetime": "21 Jan 2017 13:08"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Ay Vida Mía (feat. Monsieur Periné)",
+    "datetime": "21 Jan 2017 13:04"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Llámame Fino",
+    "datetime": "21 Jan 2017 12:59"
+  },
+  {
+    "artist": "The xx",
+    "album": "Coexist",
+    "song": "Sunset",
+    "datetime": "20 Jan 2017 15:49"
+  },
+  {
+    "artist": "The xx",
+    "album": "xx",
+    "song": "Heart Skipped A Beat",
+    "datetime": "20 Jan 2017 15:45"
+  },
+  {
+    "artist": "The xx",
+    "album": "xx",
+    "song": "VCR",
+    "datetime": "20 Jan 2017 15:42"
+  },
+  {
+    "artist": "Jamie xx",
+    "album": "In Colour",
+    "song": "Stranger in a Room",
+    "datetime": "20 Jan 2017 15:39"
+  },
+  {
+    "artist": "The xx",
+    "album": "xx",
+    "song": "Crystalised",
+    "datetime": "20 Jan 2017 15:35"
+  },
+  {
+    "artist": "The xx",
+    "album": "Coexist",
+    "song": "Angels",
+    "datetime": "20 Jan 2017 15:33"
+  },
+  {
+    "artist": "Woolfy Vs Projections",
+    "album": "Café del Mar - Ibiza Classics",
+    "song": "We Were There",
+    "datetime": "20 Jan 2017 15:27"
+  },
+  {
+    "artist": "Gorillaz",
+    "album": "Plastic Beach",
+    "song": "On Melancholy Hill",
+    "datetime": "20 Jan 2017 13:11"
+  },
+  {
+    "artist": "Future Islands",
+    "album": "Singles",
+    "song": "A Dream of You and Me",
+    "datetime": "20 Jan 2017 13:07"
+  },
+  {
+    "artist": "Future Islands",
+    "album": "Singles",
+    "song": "Seasons (Waiting on You)",
+    "datetime": "20 Jan 2017 13:04"
+  },
+  {
+    "artist": "Franz Ferdinand",
+    "album": "Right Thoughts Right Words Right Action (Deluxe Edition)",
+    "song": "Bullet",
+    "datetime": "20 Jan 2017 13:01"
+  },
+  {
+    "artist": "Franz Ferdinand",
+    "album": "Franz Ferdinand",
+    "song": "Michael",
+    "datetime": "20 Jan 2017 12:58"
+  },
+  {
+    "artist": "FKA twigs",
+    "album": "LP1",
+    "song": "Two Weeks",
+    "datetime": "20 Jan 2017 12:53"
+  },
+  {
+    "artist": "Disclosure",
+    "album": "Omen (Radio Edit)",
+    "song": "Omen - Radio Edit",
+    "datetime": "20 Jan 2017 12:50"
+  },
+  {
+    "artist": "Crystal Fighters",
+    "album": "Cave Rave",
+    "song": "Love Natural",
+    "datetime": "20 Jan 2017 12:47"
+  },
+  {
+    "artist": "Crystal Fighters",
+    "album": "Cave Rave",
+    "song": "LA Calling",
+    "datetime": "20 Jan 2017 12:43"
+  },
+  {
+    "artist": "The Black Keys",
+    "album": "Fever",
+    "song": "Fever",
+    "datetime": "20 Jan 2017 12:39"
+  },
+  {
+    "artist": "Arcade Fire",
+    "album": "The Suburbs Deluxe",
+    "song": "Ready to Start",
+    "datetime": "20 Jan 2017 12:35"
+  },
+  {
+    "artist": "Arcade Fire",
+    "album": "Reflektor",
+    "song": "Afterlife",
+    "datetime": "20 Jan 2017 12:12"
+  },
+  {
+    "artist": "Herbie Hancock",
+    "album": "Maiden Voyage (The Rudy Van Gelder Edition)",
+    "song": "Maiden Voyage",
+    "datetime": "20 Jan 2017 12:05"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Kind Of Blue (Legacy Edition)",
+    "song": "On Green Dolphin Street",
+    "datetime": "20 Jan 2017 11:55"
+  },
+  {
+    "artist": "Wes Montgomery",
+    "album": "Tequila",
+    "song": "Bumpin' On Sunset",
+    "datetime": "20 Jan 2017 11:50"
+  },
+  {
+    "artist": "Erroll Garner",
+    "album": "The Original Misty",
+    "song": "Misty",
+    "datetime": "20 Jan 2017 11:47"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Milestones",
+    "song": "Milestones",
+    "datetime": "20 Jan 2017 11:41"
+  },
+  {
+    "artist": "John Coltrane",
+    "album": "A Love Supreme",
+    "song": "A Love Supreme Pt. I & Acknowledgement",
+    "datetime": "20 Jan 2017 11:34"
+  },
+  {
+    "artist": "Charlie Parker",
+    "album": "The Complete Savoy & Dial Master Takes",
+    "song": "Ornithology",
+    "datetime": "20 Jan 2017 11:31"
+  },
+  {
+    "artist": "Ray Charles",
+    "album": "The Very Best Of Ray Charles Vol. 1",
+    "song": "Georgia On My Mind",
+    "datetime": "20 Jan 2017 11:27"
+  },
+  {
+    "artist": "Herbie Hancock",
+    "album": "Cantaloupe Island",
+    "song": "Cantaloupe Island",
+    "datetime": "20 Jan 2017 11:21"
+  },
+  {
+    "artist": "Cannonball Adderley",
+    "album": "Jazz Standards",
+    "song": "Autumn Leaves",
+    "datetime": "20 Jan 2017 11:10"
+  },
+  {
+    "artist": "Les McCann",
+    "album": "Best of Soul Jazz",
+    "song": "Compared To What?",
+    "datetime": "20 Jan 2017 11:08"
+  },
+  {
+    "artist": "Benny Goodman",
+    "album": "The Essential Benny Goodman",
+    "song": "Sing Sing Sing",
+    "datetime": "20 Jan 2017 10:59"
+  },
+  {
+    "artist": "Herbie Hancock",
+    "album": "Cantaloupe Island",
+    "song": "Watermelon Man",
+    "datetime": "20 Jan 2017 10:52"
+  },
+  {
+    "artist": "Django Reinhardt",
+    "album": "The Best Of Django Reinhardt",
+    "song": "Nuages (avec le Quintette Hot Club de France)",
+    "datetime": "20 Jan 2017 10:49"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "The Essential Miles Davis",
+    "song": "Someday My Prince Will Come",
+    "datetime": "20 Jan 2017 10:40"
+  },
+  {
+    "artist": "The Dave Brubeck Quartet",
+    "album": "Time Out",
+    "song": "Blue Rondo à la turk",
+    "datetime": "20 Jan 2017 10:33"
+  },
+  {
+    "artist": "Clifford Brown",
+    "album": "Clifford Brown And Max Roach",
+    "song": "Joy Spring",
+    "datetime": "20 Jan 2017 10:26"
+  },
+  {
+    "artist": "The Ramsey Lewis Trio",
+    "album": "The In Crowd",
+    "song": "The In Crowd - Live (1965/Bohemian Caverns)",
+    "datetime": "20 Jan 2017 10:20"
+  },
+  {
+    "artist": "Charlie Parker",
+    "album": "Savoy Jazz Super EP: Charlie Parker Vol. 1",
+    "song": "Yardbird Suite",
+    "datetime": "20 Jan 2017 10:04"
+  },
+  {
+    "artist": "Duke Ellington",
+    "album": "Jazz Moods -- Hot",
+    "song": "Caravan",
+    "datetime": "20 Jan 2017 10:01"
+  },
+  {
+    "artist": "Nina Simone",
+    "album": "Four Women: The Complete Nina Simone On Philips",
+    "song": "Feeling Good",
+    "datetime": "20 Jan 2017 09:58"
+  },
+  {
+    "artist": "Artie Shaw",
+    "album": "Artie Shaw - Stardust",
+    "song": "Begin the Beguine",
+    "datetime": "20 Jan 2017 09:55"
+  },
+  {
+    "artist": "Duke Ellington",
+    "album": "The Duke: The Columbia Years (1927-1962)",
+    "song": "Mood Indigo",
+    "datetime": "20 Jan 2017 09:52"
+  },
+  {
+    "artist": "Duke Ellington",
+    "album": "By Popular Demand Duke Ellington",
+    "song": "Sophisticated Lady",
+    "datetime": "20 Jan 2017 09:47"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Continuum",
+    "song": "Stop This Train",
+    "datetime": "20 Jan 2017 00:19"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Room for Squares",
+    "song": "Why Georgia",
+    "datetime": "20 Jan 2017 00:15"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Paradise Valley",
+    "song": "Paper Doll",
+    "datetime": "20 Jan 2017 00:10"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Battle Studies",
+    "song": "Half of My Heart",
+    "datetime": "20 Jan 2017 00:06"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Continuum",
+    "song": "Waiting on the World to Change",
+    "datetime": "20 Jan 2017 00:03"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Room for Squares",
+    "song": "Neon",
+    "datetime": "19 Jan 2017 23:58"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Paradise Valley",
+    "song": "Wildfire",
+    "datetime": "19 Jan 2017 23:54"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Battle Studies",
+    "song": "Heartbreak Warfare",
+    "datetime": "19 Jan 2017 23:50"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Continuum",
+    "song": "Gravity",
+    "datetime": "19 Jan 2017 23:46"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Heavier Things",
+    "song": "Daughters",
+    "datetime": "19 Jan 2017 23:42"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Paradise Valley",
+    "song": "Who You Love",
+    "datetime": "19 Jan 2017 23:37"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Battle Studies",
+    "song": "Who Says",
+    "datetime": "19 Jan 2017 23:35"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Continuum",
+    "song": "Slow Dancing in a Burning Room",
+    "datetime": "19 Jan 2017 23:31"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "XO",
+    "song": "XO",
+    "datetime": "19 Jan 2017 23:27"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Room for Squares",
+    "song": "Your Body Is a Wonderland",
+    "datetime": "19 Jan 2017 23:23"
+  },
+  {
+    "artist": "John Mayer",
+    "album": "Love on the Weekend",
+    "song": "Love On The Weekend",
+    "datetime": "19 Jan 2017 23:19"
+  },
+  {
+    "artist": "Deluxe",
+    "album": "If Things Were to Go Wrong",
+    "song": "Que No",
+    "datetime": "19 Jan 2017 21:07"
+  },
+  {
+    "artist": "Vetusta Morla",
+    "album": "Un día en el mundo",
+    "song": "Copenhague",
+    "datetime": "19 Jan 2017 21:02"
+  },
+  {
+    "artist": "Iván Ferreiro",
+    "album": "Canciones Para El Tiempo Y La Distancia",
+    "song": "Turnedo",
+    "datetime": "19 Jan 2017 20:57"
+  },
+  {
+    "artist": "Lori Meyers",
+    "album": "Impronta",
+    "song": "Emborracharme",
+    "datetime": "19 Jan 2017 20:54"
+  },
+  {
+    "artist": "Love of Lesbian",
+    "album": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
+    "song": "Algunas Plantas",
+    "datetime": "19 Jan 2017 20:51"
+  },
+  {
+    "artist": "La casa azul",
+    "album": "La Revolución Sexual",
+    "song": "La Revolución Sexual",
+    "datetime": "19 Jan 2017 20:45"
+  },
+  {
+    "artist": "Love of Lesbian",
+    "album": "La noche eterna. Los días no vividos",
+    "song": "Si tu me dices Ben yo digo Affleck",
+    "datetime": "19 Jan 2017 20:40"
+  },
+  {
+    "artist": "Lori Meyers",
+    "album": "Impronta",
+    "song": "Emborracharme",
+    "datetime": "19 Jan 2017 20:36"
+  },
+  {
+    "artist": "Lori Meyers",
+    "album": "Cuando El Destino Nos Alcance",
+    "song": "Mi Realidad",
+    "datetime": "19 Jan 2017 20:33"
+  },
+  {
+    "artist": "Sidonie",
+    "album": "El Incendio",
+    "song": "La Sombra",
+    "datetime": "19 Jan 2017 20:30"
+  },
+  {
+    "artist": "Sidonie",
+    "album": "El Incendio",
+    "song": "El Incendio",
+    "datetime": "19 Jan 2017 20:27"
+  },
+  {
+    "artist": "Sidonie",
+    "album": "Sierra y Canada",
+    "song": "Yo Soy la Crema",
+    "datetime": "19 Jan 2017 20:24"
+  },
+  {
+    "artist": "Sidonie",
+    "album": "Sierra y Canada",
+    "song": "Un Dia de Mierda",
+    "datetime": "19 Jan 2017 20:20"
+  },
+  {
+    "artist": "Sidonie",
+    "album": "Sierra y Canada",
+    "song": "Estáis Aquí",
+    "datetime": "19 Jan 2017 20:16"
+  },
+  {
+    "artist": "Sidonie",
+    "album": "El Peor Grupo del Mundo",
+    "song": "Carreteras Infinitas",
+    "datetime": "19 Jan 2017 20:11"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Kind Of Blue (Legacy Edition)",
+    "song": "Freddie Freeloader",
+    "datetime": "19 Jan 2017 20:00"
+  },
+  {
+    "artist": "Nina Simone",
+    "album": "The Best Of Nina Simone",
+    "song": "I Loves You Porgy - Live In New York/1964",
+    "datetime": "19 Jan 2017 19:58"
+  },
+  {
+    "artist": "Dizzy Gillespie",
+    "album": "All that Jazz Vol. 26: From Combo to Big Band Bop & Dizzy Gillespie (2015 Digital Remaster)",
+    "song": "A Night In Tunisia",
+    "datetime": "19 Jan 2017 19:55"
+  },
+  {
+    "artist": "Billie Holiday",
+    "album": "The Complete Billie Holiday",
+    "song": "God Bless The Child",
+    "datetime": "19 Jan 2017 19:52"
+  },
+  {
+    "artist": "James Moody",
+    "album": "Moody's Mood For Love",
+    "song": "I'm in the Mood for Love",
+    "datetime": "19 Jan 2017 19:48"
+  },
+  {
+    "artist": "Dave Brubeck",
+    "album": "On Time",
+    "song": "Take Five",
+    "datetime": "19 Jan 2017 19:43"
+  },
+  {
+    "artist": "Duke Ellington",
+    "album": "Jazz Moods -- Hot",
+    "song": "Take The A Train",
+    "datetime": "19 Jan 2017 19:40"
+  },
+  {
+    "artist": "Wes Montgomery",
+    "album": "The Best of Wes Montgomery (Remastered)",
+    "song": "Four On Six",
+    "datetime": "19 Jan 2017 19:34"
+  },
+  {
+    "artist": "Louis Armstrong & His Hot Seven",
+    "album": "The Essential Louis Armstrong",
+    "song": "Potato Head Blues - 78rpm Version",
+    "datetime": "19 Jan 2017 19:31"
+  },
+  {
+    "artist": "Thelonious Monk",
+    "album": "By Popular Demand Thelonious Monk",
+    "song": "Epistrophy",
+    "datetime": "19 Jan 2017 19:28"
+  },
+  {
+    "artist": "Ahmad Jamal",
+    "album": "Poinciana",
+    "song": "Poinciana",
+    "datetime": "19 Jan 2017 19:23"
+  },
+  {
+    "artist": "Marvin Gaye",
+    "album": "Marvin Gaye 30 Canciones De Oro",
+    "song": "Ain't No Mountain High Enough",
+    "datetime": "19 Jan 2017 17:38"
+  },
+  {
+    "artist": "Vanessa Carlton",
+    "album": "100 Essential Love Songs (Online version)",
+    "song": "A Thousand Miles",
+    "datetime": "19 Jan 2017 17:34"
+  },
+  {
+    "artist": "Bryan Adams",
+    "album": "Waking Up the Neighbours",
+    "song": "(Everything I Do) I Do It for You",
+    "datetime": "19 Jan 2017 17:28"
+  },
+  {
+    "artist": "The Proclaimers",
+    "album": "Finest",
+    "song": "I'm Gonna Be (500 Miles)",
+    "datetime": "19 Jan 2017 17:20"
+  },
+  {
+    "artist": "The Cardigans",
+    "album": "Best Of",
+    "song": "Lovefool",
+    "datetime": "19 Jan 2017 17:17"
+  },
+  {
+    "artist": "CeeLo Green",
+    "album": "The Lady Killer (Deluxe)",
+    "song": "F**k You",
+    "datetime": "19 Jan 2017 17:13"
+  },
+  {
+    "artist": "Marvin Gaye",
+    "album": "Midnight Love",
+    "song": "Sexual Healing",
+    "datetime": "19 Jan 2017 17:09"
+  },
+  {
+    "artist": "EMF",
+    "album": "Playlist: Dance",
+    "song": "Unbelievable",
+    "datetime": "19 Jan 2017 17:06"
+  },
+  {
+    "artist": "Gloria Gaynor",
+    "album": "Music From Robert De Niro Films",
+    "song": "Can't Take My Eyes Off Of You (from The Deer Hunter)",
+    "datetime": "19 Jan 2017 17:02"
+  },
+  {
+    "artist": "Five",
+    "album": "100 Hits Of The '90s",
+    "song": "Everybody Get Up - Radio Edit",
+    "datetime": "19 Jan 2017 16:59"
+  },
+  {
+    "artist": "Lisa Stansfield",
+    "album": "The Boxset Collection",
+    "song": "All Around the World - Remastered",
+    "datetime": "19 Jan 2017 16:54"
+  },
+  {
+    "artist": "Bonnie Tyler",
+    "album": "The Very Best of Bonnie Tyler",
+    "song": "Total Eclipse of the Heart",
+    "datetime": "19 Jan 2017 16:50"
+  },
+  {
+    "artist": "Metallica",
+    "album": "Ride The Lightning (Deluxe Remaster)",
+    "song": "Escape (Remastered)",
+    "datetime": "19 Jan 2017 12:52"
+  },
+  {
+    "artist": "El Reno Renardo",
+    "album": "Babuinos Del Metal",
+    "song": "Dios Del Balompié",
+    "datetime": "19 Jan 2017 12:50"
+  },
+  {
+    "artist": "Metallica",
+    "album": "...and Justice for All",
+    "song": "One",
+    "datetime": "19 Jan 2017 12:46"
+  },
+  {
+    "artist": "El Reno Renardo",
+    "album": "Babuinos Del Metal",
+    "song": "Hipihopo",
+    "datetime": "19 Jan 2017 12:32"
+  },
+  {
+    "artist": "El Reno Renardo",
+    "album": "Y El Reino De La Cagalera De Bisbal",
+    "song": "El Bogavante",
+    "datetime": "19 Jan 2017 12:28"
+  },
+  {
+    "artist": "El Reno Renardo",
+    "album": "Y El Reino De La Cagalera De Bisbal",
+    "song": "Crecí en los ochenta",
+    "datetime": "19 Jan 2017 12:23"
+  },
+  {
+    "artist": "El Reno Renardo",
+    "album": "Y El Reino De La Cagalera De Bisbal",
+    "song": "El Bogavante",
+    "datetime": "19 Jan 2017 12:18"
+  },
+  {
+    "artist": "Iron Maiden",
+    "album": "Powerslave (1998 Remastered Edition)",
+    "song": "2 Minutes To Midnight - 1998 Remastered Version",
+    "datetime": "19 Jan 2017 12:09"
+  },
+  {
+    "artist": "Marea",
+    "album": "Besos De Perro",
+    "song": "Como El Viento De Poniente",
+    "datetime": "19 Jan 2017 12:05"
+  },
+  {
+    "artist": "M-Clan",
+    "album": "Usar Y Tirar",
+    "song": "Llamando A La Tierra - Serenade From The Stars",
+    "datetime": "19 Jan 2017 12:01"
+  },
+  {
+    "artist": "Paquito D'Rivera",
+    "album": "Music from Two Worlds",
+    "song": "Contradanza",
+    "datetime": "19 Jan 2017 11:58"
+  },
+  {
+    "artist": "Charlie Parker Quartet",
+    "album": "Charlie Parker (Originals International Version)",
+    "song": "Kim",
+    "datetime": "19 Jan 2017 11:55"
+  },
+  {
+    "artist": "Dizzy Gillespie",
+    "album": "The Verve & Philips Small Group Sessions",
+    "song": "The Cup Bearers",
+    "datetime": "19 Jan 2017 11:49"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Kind Of Blue (Legacy Edition)",
+    "song": "Blue in Green",
+    "datetime": "19 Jan 2017 11:43"
+  },
+  {
+    "artist": "Woody Herman & His Orchestra",
+    "album": "Portrait",
+    "song": "Woodchopper's Ball",
+    "datetime": "19 Jan 2017 11:40"
+  },
+  {
+    "artist": "Woody Herman",
+    "album": "An Introduction To Woody Herman",
+    "song": "Wildroot",
+    "datetime": "19 Jan 2017 11:36"
+  },
+  {
+    "artist": "Woody Herman & His Orchestra",
+    "album": "The Essential Woody Herman",
+    "song": "Goosey Gander - 78rpm Version",
+    "datetime": "19 Jan 2017 11:33"
+  },
+  {
+    "artist": "Duke Ellington",
+    "album": "Duke Ellington & John Coltrane",
+    "song": "In A Sentimental Mood",
+    "datetime": "19 Jan 2017 11:29"
+  },
+  {
+    "artist": "Lionel Hampton & His Orchestra",
+    "album": "Bebop Professor (Bluebird's Best Series)",
+    "song": "Hot Mallets - 2002 Remastered",
+    "datetime": "19 Jan 2017 11:26"
+  },
+  {
+    "artist": "Charlie Parker Quartet",
+    "album": "Billie's Bounce",
+    "song": "Star Eyes",
+    "datetime": "19 Jan 2017 11:23"
+  },
+  {
+    "artist": "Benny Carter",
+    "album": "Jazz Masters 35",
+    "song": "Funky Blues",
+    "datetime": "19 Jan 2017 11:09"
+  },
+  {
+    "artist": "Paquito D'Rivera",
+    "album": "Havana Cafe",
+    "song": "Improvalsation (Dedicated to Antonio Lauro)",
+    "datetime": "19 Jan 2017 11:07"
+  },
+  {
+    "artist": "Woody Herman & His Orchestra",
+    "album": "Blowin' Up A Storm: The Columbia Years 1945-1947",
+    "song": "Four Brothers",
+    "datetime": "19 Jan 2017 11:04"
+  },
+  {
+    "artist": "Duke Ellington",
+    "album": "Blue Big Bands",
+    "song": "El Gato - Live",
+    "datetime": "19 Jan 2017 11:00"
+  },
+  {
+    "artist": "Mozarteum Orchestra Salzburg",
+    "album": "Carmina Burana",
+    "song": "VI. Tanz VII. Floret siva VIII. Chramer VIII: Chramer gip die varwe mir IX. Reie Swaz hie gat umbe X. Were diu werit alle min: Uf dem Anger",
+    "datetime": "19 Jan 2017 10:52"
+  },
+  {
+    "artist": "Johannes Brahms",
+    "album": "Brahms and Hindemith Clarinet Sonatas",
+    "song": "Clarinet Sonata in E-Flat Major Op. 120 No. 2: II. Allegro molto appassionato",
+    "datetime": "19 Jan 2017 10:45"
+  },
+  {
+    "artist": "Radiohead",
+    "album": "Amnesiac",
+    "song": "You and Whose Army?",
+    "datetime": "19 Jan 2017 10:42"
+  },
+  {
+    "artist": "Manuel de Falla",
+    "album": "Falla: El sombrero de tres picos",
+    "song": "El amor brujo",
+    "datetime": "19 Jan 2017 10:38"
+  },
+  {
+    "artist": "Manuel de Falla",
+    "album": "Falla: El sombrero de tres picos",
+    "song": "El amor brujo",
+    "datetime": "19 Jan 2017 10:34"
+  },
+  {
+    "artist": "Ludwig van Beethoven",
+    "album": "Beethoven: The 9 Symphonies",
+    "song": "Symphony No.6 in F Op.68 -Pastoral: 4. Gewitter Sturm (Allegro)",
+    "datetime": "19 Jan 2017 10:31"
+  },
+  {
+    "artist": "Paco de Lucía",
+    "album": "Grandes de la Guitarra Española Vol. 2",
+    "song": "Escena",
+    "datetime": "19 Jan 2017 10:29"
+  },
+  {
+    "artist": "Felix Mendelssohn",
+    "album": "Mendelssohn: Symphony No.3",
+    "song": "A Midsummer Night's Dream",
+    "datetime": "19 Jan 2017 10:25"
+  },
+  {
+    "artist": "Sir Simon Rattle",
+    "album": "Mussorgsky: Pictures at an Exhibition",
+    "song": "Pictures at an Exhibition: 5. Ballet of the Unhatched Chicks/Ballet des pouissins dans leurs coques",
+    "datetime": "19 Jan 2017 10:24"
+  },
+  {
+    "artist": "Pyotr Ilyich Tchaikovsky",
+    "album": "Extreme Classics",
+    "song": "1812 Festival Overture Op. 49: 1812 Overture Op. 49: Finale",
+    "datetime": "19 Jan 2017 10:20"
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Bad (Remastered)",
+    "song": "Smooth Criminal - 2012 Remaster",
+    "datetime": "17 Jan 2017 18:49"
+  },
+  {
+    "artist": "The Temptations",
+    "album": "Anthology",
+    "song": "Papa Was A Rollin' Stone - Single Version",
+    "datetime": "17 Jan 2017 18:42"
+  },
+  {
+    "artist": "Tower of Power",
+    "album": "Tower Of Power",
+    "song": "What Is Hip?",
+    "datetime": "17 Jan 2017 18:37"
+  },
+  {
+    "artist": "George Clinton",
+    "album": "Greatest Hits: Straight Up",
+    "song": "Atomic Dog - 2000 - Remaster",
+    "datetime": "17 Jan 2017 18:32"
+  },
+  {
+    "artist": "Tower of Power",
+    "album": "Soul With A Capital S - The Best Of Tower Of Power",
+    "song": "Soul With A Capital 'S'",
+    "datetime": "17 Jan 2017 18:27"
+  },
+  {
+    "artist": "James Brown",
+    "album": "Get On Up - The James Brown Story (Original Motion Picture Soundtrack)",
+    "song": "I Got You (I Feel Good)",
+    "datetime": "17 Jan 2017 18:24"
+  },
+  {
+    "artist": "The Meters",
+    "album": "Funkify Your Life: The Meters Anthology",
+    "song": "Sophisticated Cissy",
+    "datetime": "17 Jan 2017 17:56"
+  },
+  {
+    "artist": "James Brown",
+    "album": "20 All-Time Greatest Hits!",
+    "song": "Night Train - Single Version",
+    "datetime": "17 Jan 2017 17:52"
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Thriller 25 Super Deluxe Edition",
+    "song": "Billie Jean - Single Version",
+    "datetime": "17 Jan 2017 17:48"
+  },
+  {
+    "artist": "James Brown",
+    "album": "20 All-Time Greatest Hits!",
+    "song": "Papa's Got A Brand New Bag",
+    "datetime": "17 Jan 2017 17:45"
+  },
+  {
+    "artist": "James Brown",
+    "album": "20 All-Time Greatest Hits!",
+    "song": "Say It Loud - I'm Black And I'm Proud",
+    "datetime": "17 Jan 2017 17:43"
+  },
+  {
+    "artist": "DePedro",
+    "album": "Depedro",
+    "song": "La memoria",
+    "datetime": "17 Jan 2017 17:18"
+  },
+  {
+    "artist": "DePedro",
+    "album": "Depedro",
+    "song": "Don't leave me now",
+    "datetime": "17 Jan 2017 17:14"
+  },
+  {
+    "artist": "DePedro",
+    "album": "Depedro",
+    "song": "Como el viento",
+    "datetime": "17 Jan 2017 17:10"
+  },
+  {
+    "artist": "Xoel López",
+    "album": "Atlántico",
+    "song": "caballero",
+    "datetime": "17 Jan 2017 16:49"
+  },
+  {
+    "artist": "Xoel López",
+    "album": "Atlántico",
+    "song": "Por el Viejo Barrio",
+    "datetime": "17 Jan 2017 16:47"
+  },
+  {
+    "artist": "Xoel López",
+    "album": "Atlántico",
+    "song": "La gran montaña",
+    "datetime": "17 Jan 2017 16:45"
+  },
+  {
+    "artist": "Xoel López",
+    "album": "Atlántico",
+    "song": "Hombre de ninguna parte",
+    "datetime": "17 Jan 2017 16:41"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Hey",
+    "datetime": "17 Jan 2017 12:00"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Gouge Away",
+    "datetime": "17 Jan 2017 11:57"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "No. 13 Baby",
+    "datetime": "17 Jan 2017 11:53"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Wave of Mutilation",
+    "datetime": "17 Jan 2017 11:51"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Silver",
+    "datetime": "17 Jan 2017 11:49"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "I Bleed",
+    "datetime": "17 Jan 2017 11:46"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Tame",
+    "datetime": "17 Jan 2017 11:44"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "There Goes My Gun",
+    "datetime": "17 Jan 2017 11:42"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Monkey Gone to Heaven",
+    "datetime": "17 Jan 2017 11:39"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Mr. Grieves",
+    "datetime": "17 Jan 2017 11:37"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Dead",
+    "datetime": "17 Jan 2017 11:35"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Debaser",
+    "datetime": "17 Jan 2017 11:32"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Gouge Away",
+    "datetime": "16 Jan 2017 16:02"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Silver",
+    "datetime": "16 Jan 2017 15:59"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Hey",
+    "datetime": "16 Jan 2017 15:56"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "There Goes My Gun",
+    "datetime": "16 Jan 2017 15:53"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "No. 13 Baby",
+    "datetime": "16 Jan 2017 15:49"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "La La Love You",
+    "datetime": "16 Jan 2017 15:47"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Crackity Jones",
+    "datetime": "16 Jan 2017 15:45"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Mr. Grieves",
+    "datetime": "16 Jan 2017 15:43"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Monkey Gone to Heaven",
+    "datetime": "16 Jan 2017 15:40"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Dead",
+    "datetime": "16 Jan 2017 15:38"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Here Comes Your Man",
+    "datetime": "16 Jan 2017 15:35"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "I Bleed",
+    "datetime": "16 Jan 2017 15:32"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Wave of Mutilation",
+    "datetime": "16 Jan 2017 15:30"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Tame",
+    "datetime": "16 Jan 2017 15:28"
+  },
+  {
+    "artist": "Pixies",
+    "album": "Doolittle",
+    "song": "Debaser",
+    "datetime": "16 Jan 2017 15:25"
+  },
+  {
+    "artist": "Auxili",
+    "album": "Instants cremant",
+    "song": "Com el foc",
+    "datetime": "16 Jan 2017 13:36"
+  },
+  {
+    "artist": "Vendetta",
+    "album": "13 Balas",
+    "song": "Suma",
+    "datetime": "16 Jan 2017 13:34"
+  },
+  {
+    "artist": "New York Ska-Jazz Ensemble",
+    "album": "Step Forward",
+    "song": "Take Five",
+    "datetime": "16 Jan 2017 13:27"
+  },
+  {
+    "artist": "The Cat Empire",
+    "album": "The Cat Empire",
+    "song": "Hello",
+    "datetime": "16 Jan 2017 13:23"
+  },
+  {
+    "artist": "Banda Bassotti",
+    "album": "Banditi senza tempo",
+    "song": "E Io Ero Sandokan (feat. Giulio RNC & Andrea Mei)",
+    "datetime": "16 Jan 2017 13:19"
+  },
+  {
+    "artist": "Auxili",
+    "album": "Instants cremant",
+    "song": "Com el foc",
+    "datetime": "16 Jan 2017 13:15"
+  },
+  {
+    "artist": "Auxili",
+    "album": "Dolç Atac (Studio)",
+    "song": "Rude Girl",
+    "datetime": "16 Jan 2017 13:12"
+  },
+  {
+    "artist": "Bad Manners",
+    "album": "Bad Manners",
+    "song": "Ne Ne Na Na Na Na Nu Nu",
+    "datetime": "16 Jan 2017 13:10"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "We Can Work It Out - Remastered 2015",
+    "datetime": "15 Jan 2017 18:25"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "Day Tripper - Remastered 2015",
+    "datetime": "15 Jan 2017 18:23"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "Yesterday - Remastered 2015",
+    "datetime": "15 Jan 2017 18:21"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "Help! - Remastered 2015",
+    "datetime": "15 Jan 2017 18:18"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "Ticket To Ride - Remastered 2015",
+    "datetime": "15 Jan 2017 18:15"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "Eight Days A Week - Remastered 2015",
+    "datetime": "15 Jan 2017 18:12"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "I Feel Fine - Remastered 2015",
+    "datetime": "15 Jan 2017 18:10"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "A Hard Day's Night - Remastered 2015",
+    "datetime": "15 Jan 2017 18:07"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "Can't Buy Me Love - Remastered 2015",
+    "datetime": "15 Jan 2017 18:05"
+  },
+  {
+    "artist": "Leiva",
+    "album": "Monstruos",
+    "song": "La Lluvia en los Zapatos",
+    "datetime": "15 Jan 2017 17:53"
+  },
+  {
+    "artist": "Leiva",
+    "album": "Polvora",
+    "song": "Terriblemente Cruel",
+    "datetime": "15 Jan 2017 17:49"
+  },
+  {
+    "artist": "Leiva",
+    "album": "Polvora",
+    "song": "Los Cantantes",
+    "datetime": "15 Jan 2017 17:46"
+  },
+  {
+    "artist": "Leiva",
+    "album": "Polvora",
+    "song": "Mirada Perdida",
+    "datetime": "15 Jan 2017 17:42"
+  },
+  {
+    "artist": "Leiva",
+    "album": "Diciembre",
+    "song": "Todo Lo Que Tu Quieras",
+    "datetime": "15 Jan 2017 17:38"
+  },
+  {
+    "artist": "Leiva",
+    "album": "Diciembre",
+    "song": 92,
+    "datetime": "15 Jan 2017 17:35"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "I Want To Hold Your Hand - Remastered 2015",
+    "datetime": "15 Jan 2017 17:34"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "She Loves You - Mono / Remastered 2015",
+    "datetime": "15 Jan 2017 17:31"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "From Me To You - Mono / Remastered 2015",
+    "datetime": "15 Jan 2017 17:29"
+  },
+  {
+    "artist": "The Beatles",
+    "album": "1 (Remastered)",
+    "song": "Love Me Do - Mono / Remastered 2015",
+    "datetime": "15 Jan 2017 17:27"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "This Protector",
+    "datetime": "15 Jan 2017 17:19"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "I Can Learn",
+    "datetime": "15 Jan 2017 17:15"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Now Mary",
+    "datetime": "15 Jan 2017 17:14"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "I Can't Wait",
+    "datetime": "15 Jan 2017 17:10"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Aluminum",
+    "datetime": "15 Jan 2017 17:08"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "I Think I Smell a Rat",
+    "datetime": "15 Jan 2017 17:06"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Offend in Every Way",
+    "datetime": "15 Jan 2017 17:03"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "We're Going to Be Friends",
+    "datetime": "15 Jan 2017 17:00"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "The Same Boy You've Always Known",
+    "datetime": "15 Jan 2017 16:57"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "The Union Forever",
+    "datetime": "15 Jan 2017 16:54"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Little Room",
+    "datetime": "15 Jan 2017 16:53"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Expecting",
+    "datetime": "15 Jan 2017 16:51"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Fell in Love With a Girl",
+    "datetime": "15 Jan 2017 16:49"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "I'm Finding It Harder To Be A Gentleman",
+    "datetime": "15 Jan 2017 16:46"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Hotel Yorba",
+    "datetime": "15 Jan 2017 16:44"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Dead Leaves and the Dirty Ground",
+    "datetime": "15 Jan 2017 16:41"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Jack White Acoustic Recordings 1998 - 2016",
+    "song": "City Lights (Previously Unreleased)",
+    "datetime": "15 Jan 2017 16:35"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Dead Leaves and the Dirty Ground",
+    "datetime": "15 Jan 2017 16:32"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "Ball and Biscuit",
+    "datetime": "15 Jan 2017 16:25"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "I Just Don't Know What To Do With Myself",
+    "datetime": "15 Jan 2017 16:22"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "The Hardest Button to Button",
+    "datetime": "15 Jan 2017 16:09"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "Ball and Biscuit",
+    "datetime": "15 Jan 2017 16:02"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "You've Got Her In Your Pocket",
+    "datetime": "15 Jan 2017 15:58"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "I Want To Be The Boy...",
+    "datetime": "15 Jan 2017 15:55"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "In the Cold Cold Night",
+    "datetime": "15 Jan 2017 15:52"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "I Just Don't Know What To Do With Myself",
+    "datetime": "15 Jan 2017 15:49"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "There's No Home For You Here",
+    "datetime": "15 Jan 2017 15:46"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "Black Math",
+    "datetime": "15 Jan 2017 15:42"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "The Hardest Button to Button",
+    "datetime": "15 Jan 2017 15:39"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "The Hardest Button to Button",
+    "datetime": "15 Jan 2017 15:35"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "The Hardest Button to Button",
+    "datetime": "15 Jan 2017 15:31"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "The Hardest Button to Button",
+    "datetime": "15 Jan 2017 15:28"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "The Hardest Button to Button",
+    "datetime": "15 Jan 2017 15:19"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "I Just Don't Know What To Do With Myself",
+    "datetime": "15 Jan 2017 15:14"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "song": "The Hardest Button to Button",
+    "datetime": "15 Jan 2017 15:11"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "We're Going to Be Friends",
+    "datetime": "15 Jan 2017 15:08"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Get Behind Me Satan",
+    "song": "Blue Orchid",
+    "datetime": "15 Jan 2017 15:06"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "Icky Thump",
+    "song": "Icky Thump",
+    "datetime": "15 Jan 2017 15:01"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Fell in Love With a Girl",
+    "datetime": "15 Jan 2017 14:59"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Little Room",
+    "datetime": "15 Jan 2017 13:14"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Expecting",
+    "datetime": "15 Jan 2017 13:12"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Fell in Love With a Girl",
+    "datetime": "15 Jan 2017 13:10"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "I'm Finding It Harder To Be A Gentleman",
+    "datetime": "15 Jan 2017 13:07"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Hotel Yorba",
+    "datetime": "15 Jan 2017 13:05"
+  },
+  {
+    "artist": "The White Stripes",
+    "album": "White Blood Cells",
+    "song": "Dead Leaves and the Dirty Ground",
+    "datetime": "15 Jan 2017 13:02"
+  },
+  {
+    "artist": "PJ Harvey",
+    "album": "To Bring You My Love",
+    "song": "C'mon Billy",
+    "datetime": "15 Jan 2017 12:59"
+  },
+  {
+    "artist": "Tom Waits",
+    "album": "Rain Dogs",
+    "song": "Clap Hands",
+    "datetime": "15 Jan 2017 12:57"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Kind of Blue",
+    "song": "Flamenco Sketches - Alternate Take",
+    "datetime": "15 Jan 2017 12:41"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Kind of Blue",
+    "song": "Blue in Green",
+    "datetime": "15 Jan 2017 12:35"
+  },
+  {
+    "artist": "Gene Ammons",
+    "album": "Boss Tenor",
+    "song": "My Romance",
+    "datetime": "15 Jan 2017 12:31"
+  },
+  {
+    "artist": "Marian McPartland",
+    "album": "Marian McPartland's Jazz Radio Broardcast (With Special Guest Chick Corea)",
+    "song": "Spain",
+    "datetime": "15 Jan 2017 12:26"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Kind of Blue",
+    "song": "So What",
+    "datetime": "15 Jan 2017 11:52"
+  },
+  {
+    "artist": "Jean-Claude Naude",
+    "album": "Francois Rauber 14 Juillet",
+    "song": "Tell me a Jazz Story - Première partie",
+    "datetime": "15 Jan 2017 11:40"
+  },
+  {
+    "artist": "Joe Pass",
+    "album": "Unforgettable",
+    "song": "Autumn Leaves",
+    "datetime": "15 Jan 2017 11:38"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Beggars Banquet",
+    "song": "Sympathy for the Devil",
+    "datetime": "15 Jan 2017 10:50"
+  },
+  {
+    "artist": "Hound Dog Taylor & the House Rockers",
+    "album": "Hound Dog Taylor & the Houserockers",
+    "song": "Taylor's Rock",
+    "datetime": "15 Jan 2017 10:46"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "60's UK EP Collection",
+    "song": "Bye Bye Johnny",
+    "datetime": "15 Jan 2017 10:44"
+  },
+  {
+    "artist": "Little Richard",
+    "album": "Here's Little Richard [Remastered & Expanded]",
+    "song": "Jenny Jenny",
+    "datetime": "15 Jan 2017 10:42"
+  },
+  {
+    "artist": "Wanda Jackson",
+    "album": "Wanda Jackson",
+    "song": "Let's Have A Party",
+    "datetime": "15 Jan 2017 10:38"
+  },
+  {
+    "artist": "Jorge Drexler",
+    "album": "Eco",
+    "song": "Don de Fluir",
+    "datetime": "15 Jan 2017 08:15"
+  },
+  {
+    "artist": "Jorge Drexler",
+    "album": "Eco",
+    "song": "Se Va Se Va Se Fue",
+    "datetime": "15 Jan 2017 08:12"
+  },
+  {
+    "artist": "Jorge Drexler",
+    "album": "Eco",
+    "song": "Polvo de Estrellas",
+    "datetime": "15 Jan 2017 08:09"
+  },
+  {
+    "artist": "Jorge Drexler",
+    "album": "Eco",
+    "song": "Milonga del Moro Judío",
+    "datetime": "15 Jan 2017 08:06"
+  },
+  {
+    "artist": "Jorge Drexler",
+    "album": "Eco",
+    "song": "Todo Se Transforma",
+    "datetime": "15 Jan 2017 08:02"
+  },
+  {
+    "artist": "Jorge Drexler",
+    "album": "Eco",
+    "song": "Deseo",
+    "datetime": "15 Jan 2017 07:59"
+  },
+  {
+    "artist": "Jorge Drexler",
+    "album": "Eco",
+    "song": "Eco",
+    "datetime": "15 Jan 2017 07:55"
+  },
+  {
+    "artist": "Jorge Drexler",
+    "album": "Amar La Trama",
+    "song": "las transeúntes",
+    "datetime": "15 Jan 2017 07:50"
+  },
+  {
+    "artist": "The Libertines",
+    "album": "Time for Heroes - The Best of the Libertines",
+    "song": "Time for Heroes",
+    "datetime": "14 Jan 2017 17:08"
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Times They Are A-Changin'",
+    "song": "Restless Farewell",
+    "datetime": "14 Jan 2017 17:00"
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Times They Are A-Changin'",
+    "song": "The Lonesome Death of Hattie Carroll",
+    "datetime": "14 Jan 2017 16:55"
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Times They Are A-Changin'",
+    "song": "When the Ship Comes In",
+    "datetime": "14 Jan 2017 16:51"
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Times They Are A-Changin'",
+    "song": "Boots of Spanish Leather",
+    "datetime": "14 Jan 2017 16:47"
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Times They Are A-Changin'",
+    "song": "Only a Pawn in Their Game",
+    "datetime": "14 Jan 2017 16:43"
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Times They Are A-Changin'",
+    "song": "One Too Many Mornings",
+    "datetime": "14 Jan 2017 16:38"
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Times They Are A-Changin'",
+    "song": "With God on Our Side",
+    "datetime": "14 Jan 2017 16:31"
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Times They Are A-Changin'",
+    "song": "Ballad of Hollis Brown",
+    "datetime": "14 Jan 2017 16:26"
+  },
+  {
+    "artist": "Bob Dylan",
+    "album": "The Times They Are A-Changin'",
+    "song": "The Times They Are a-Changin'",
+    "datetime": "14 Jan 2017 16:23"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "High Society",
+    "datetime": "14 Jan 2017 09:08"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "Happen In A Heartbeat",
+    "datetime": "14 Jan 2017 09:05"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "Press Rewind",
+    "datetime": "14 Jan 2017 09:00"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "Indoor Firework",
+    "datetime": "14 Jan 2017 08:56"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "Why Do You Do It To Me?",
+    "datetime": "14 Jan 2017 08:52"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "Good Clean Fun",
+    "datetime": "14 Jan 2017 08:46"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "Parachute",
+    "datetime": "14 Jan 2017 08:42"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "Parachute",
+    "datetime": "13 Jan 2017 19:49"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "Hole in My Soul",
+    "datetime": "13 Jan 2017 19:44"
+  },
+  {
+    "artist": "Kaiser Chiefs",
+    "album": "Stay Together",
+    "song": "We Stay Together",
+    "datetime": "13 Jan 2017 19:40"
+  },
+  {
+    "artist": "Sidecars",
+    "album": "Fuego Cruzado",
+    "song": "No vuelvas",
+    "datetime": "13 Jan 2017 19:36"
+  },
+  {
+    "artist": "Sidecars",
+    "album": "Fuego Cruzado",
+    "song": "Los amantes",
+    "datetime": "13 Jan 2017 19:32"
+  },
+  {
+    "artist": "Sidecars",
+    "album": "Fuego Cruzado",
+    "song": "Soledad",
+    "datetime": "13 Jan 2017 19:28"
+  },
+  {
+    "artist": "Sidecars",
+    "album": "Fuego Cruzado",
+    "song": "Fuego cruzado",
+    "datetime": "13 Jan 2017 19:25"
+  },
+  {
+    "artist": "Edoardo Catemario",
+    "album": "Albeniz / Tarrega / Granados / Torroba: Spanish Guitar Music",
+    "song": "Asturias (Albeniz)",
+    "datetime": "13 Jan 2017 16:38"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Milestones",
+    "song": "Sid's Ahead",
+    "datetime": "13 Jan 2017 16:32"
+  },
+  {
+    "artist": "Charlie Parker",
+    "album": "Unheard Bird: The Unissued Takes",
+    "song": "Visa",
+    "datetime": "13 Jan 2017 16:29"
+  },
+  {
+    "artist": "Duke Ellington",
+    "album": "Take The A Train",
+    "song": "Take The A Train",
+    "datetime": "13 Jan 2017 16:26"
+  },
+  {
+    "artist": "John Coltrane",
+    "album": "Giant Steps (Deluxe Edition)",
+    "song": "Naima",
+    "datetime": "13 Jan 2017 16:22"
+  },
+  {
+    "artist": "Charlie Parker Quartet",
+    "album": "Billie's Bounce",
+    "song": "Star Eyes",
+    "datetime": "13 Jan 2017 16:18"
+  },
+  {
+    "artist": "Woody Herman & His Orchestra",
+    "album": "Jazz Profiles",
+    "song": "Summer Sequence - Part 4",
+    "datetime": "13 Jan 2017 16:15"
+  },
+  {
+    "artist": "Benny Carter",
+    "album": "Jazz Masters 35",
+    "song": "Funky Blues",
+    "datetime": "13 Jan 2017 16:02"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Milestones",
+    "song": "Billy Boy",
+    "datetime": "13 Jan 2017 15:54"
+  },
+  {
+    "artist": "Paquito D'Rivera",
+    "album": "Havana Cafe",
+    "song": "Improvalsation (Dedicated to Antonio Lauro)",
+    "datetime": "13 Jan 2017 15:52"
+  },
+  {
+    "artist": "Charlie Parker Quartet",
+    "album": "Charlie Parker (Originals International Version)",
+    "song": "The Song Is You",
+    "datetime": "13 Jan 2017 15:49"
+  },
+  {
+    "artist": "John Coltrane",
+    "album": "Giant Steps (Deluxe Edition)",
+    "song": "Naima",
+    "datetime": "13 Jan 2017 15:45"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Milestones",
+    "song": "Dr. Jackle",
+    "datetime": "13 Jan 2017 15:39"
+  },
+  {
+    "artist": "Celtas Cortos",
+    "album": "20 soplando versos",
+    "song": "Tranquilo Majete",
+    "datetime": "13 Jan 2017 13:50"
+  },
+  {
+    "artist": "Loquillo",
+    "album": "El Creyente",
+    "song": "Cuando fuimos los mejores - Directo Granada 2014",
+    "datetime": "13 Jan 2017 13:44"
+  },
+  {
+    "artist": "Celtas Cortos",
+    "album": "Cuentame Un Cuento",
+    "song": "Cuéntame un cuento",
+    "datetime": "13 Jan 2017 13:39"
+  },
+  {
+    "artist": "Gabinete Caligari",
+    "album": "Las 100 mejores canciones del Pop Español Vol. 3",
+    "song": "Camino Soria",
+    "datetime": "13 Jan 2017 13:33"
+  },
+  {
+    "artist": "Loquillo",
+    "album": "Rock & Roll Star - 30 años",
+    "song": "El ritmo del garaje",
+    "datetime": "13 Jan 2017 13:27"
+  },
+  {
+    "artist": "M-Clan",
+    "album": "Dos noches en el Price",
+    "song": "Me voy a dejar llevar - Directo Price",
+    "datetime": "13 Jan 2017 13:25"
+  },
+  {
+    "artist": "Fito Y Fitipaldis",
+    "album": "Por la boca vive el pez",
+    "song": "Me Equivocaria Otra Vez",
+    "datetime": "13 Jan 2017 13:22"
+  },
+  {
+    "artist": "Café Quijano",
+    "album": "La Taberna del Buda",
+    "song": "Desde Brasil",
+    "datetime": "13 Jan 2017 13:09"
+  },
+  {
+    "artist": "Big Mama Thornton",
+    "album": "Ball N' Chain",
+    "song": "Ball n' Chain",
+    "datetime": "13 Jan 2017 07:49"
+  },
+  {
+    "artist": "Ruth Brown",
+    "album": "Ruth Brown",
+    "song": "Daddy Daddy",
+    "datetime": "13 Jan 2017 07:46"
+  },
+  {
+    "artist": "Fletcher Henderson and His Orchestra",
+    "album": "Ken Burns Jazz-Fletcher Henderson",
+    "song": "Shanghai Shuffle",
+    "datetime": "13 Jan 2017 07:44"
+  },
+  {
+    "artist": "Fletcher Henderson and His Orchestra",
+    "album": "The Essential Louis Armstrong",
+    "song": "Sugar Foot Stomp",
+    "datetime": "13 Jan 2017 07:42"
+  },
+  {
+    "artist": "David Bowie",
+    "album": "Diamond Dogs",
+    "song": "Rebel Rebel - 1999 Remastered Version",
+    "datetime": "13 Jan 2017 07:28"
+  },
+  {
+    "artist": "David Bowie",
+    "album": "Hunky Dory (2015 Remastered Version)",
+    "song": "Life On Mars? - 2015 Remastered Version",
+    "datetime": "13 Jan 2017 07:24"
+  },
+  {
+    "artist": "David Bowie",
+    "album": "No Plan - EP",
+    "song": "No Plan",
+    "datetime": "13 Jan 2017 07:20"
+  },
+  {
+    "artist": "David Bowie",
+    "album": "Blackstar",
+    "song": "Lazarus",
+    "datetime": "13 Jan 2017 07:16"
+  },
+  {
+    "artist": "Jorge Drexler",
+    "album": "Bailar en la Cueva",
+    "song": "Universos paralelos",
+    "datetime": "12 Jan 2017 20:00"
+  },
+  {
+    "artist": "Calle 13",
+    "album": "MultiViral",
+    "song": "Multi_Viral",
+    "datetime": "12 Jan 2017 19:55"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Singles 1965-1967",
+    "song": "Paint It Black - Mono Version",
+    "datetime": "12 Jan 2017 19:52"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Sticky Fingers (Remastered)",
+    "song": "Brown Sugar - Remastered",
+    "datetime": "12 Jan 2017 19:48"
+  },
+  {
+    "artist": "The Clash",
+    "album": "London Calling",
+    "song": "London Calling",
+    "datetime": "12 Jan 2017 19:44"
+  },
+  {
+    "artist": "Platero y tú",
+    "album": "Coleccion",
+    "song": "Meando en la pared",
+    "datetime": "12 Jan 2017 19:42"
+  },
+  {
+    "artist": "Leiva",
+    "album": "Monstruos",
+    "song": "La Lluvia en los Zapatos",
+    "datetime": "12 Jan 2017 13:55"
+  },
+  {
+    "artist": "Burning",
+    "album": "Vivo y salvaje",
+    "song": "Esto es un atraco (feat. Josele Santiago) - En Vivo",
+    "datetime": "12 Jan 2017 13:52"
+  },
+  {
+    "artist": "Washed Out",
+    "album": "Paracosm",
+    "song": "All I Know",
+    "datetime": "12 Jan 2017 13:34"
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "album": "Electric Ladyland",
+    "song": "All Along the Watchtower",
+    "datetime": "12 Jan 2017 13:30"
+  },
+  {
+    "artist": "Desakato",
+    "album": "Miseria Sangre y Plomo",
+    "song": "Cada vez",
+    "datetime": "12 Jan 2017 13:25"
+  },
+  {
+    "artist": "Pereza",
+    "album": "Aproximaciones",
+    "song": "Dimelo",
+    "datetime": "12 Jan 2017 13:22"
+  },
+  {
+    "artist": "La Raíz",
+    "album": "Así en el cielo como en la selva",
+    "song": "Jilgueros",
+    "datetime": "12 Jan 2017 13:17"
+  },
+  {
+    "artist": "Albert Lee",
+    "album": "Black Claw & Country Fever",
+    "song": "What A Stupid Thing To Do",
+    "datetime": "12 Jan 2017 13:13"
+  },
+  {
+    "artist": "Ariel Rot",
+    "album": "Rock de Europa",
+    "song": "Rock de Europa",
+    "datetime": "12 Jan 2017 13:10"
+  },
+  {
+    "artist": "Lou Reed",
+    "album": "Transformer",
+    "song": "Vicious",
+    "datetime": "12 Jan 2017 13:07"
+  },
+  {
+    "artist": "The Clash",
+    "album": "London Calling",
+    "song": "London Calling",
+    "datetime": "12 Jan 2017 13:03"
+  },
+  {
+    "artist": "Chuck Berry",
+    "album": "Blues",
+    "song": "Route 66",
+    "datetime": "12 Jan 2017 13:01"
+  },
+  {
+    "artist": "Love of Lesbian",
+    "album": "La noche eterna. Los días no vividos",
+    "song": "Si tu me dices Ben yo digo Affleck",
+    "datetime": "12 Jan 2017 12:56"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Beggars Banquet",
+    "song": "Sympathy for the Devil",
+    "datetime": "12 Jan 2017 12:50"
+  },
+  {
+    "artist": "Violadores del Verso",
+    "album": "Vivir Para Contarlo",
+    "song": "No Somos Ciegos",
+    "datetime": "12 Jan 2017 12:45"
+  },
+  {
+    "artist": "Chuck Berry",
+    "album": "Johnny B. Goode/His Complete `50s Chess Recordings",
+    "song": "Johnny B. Goode",
+    "datetime": "12 Jan 2017 12:42"
+  },
+  {
+    "artist": "Fito Y Fitipaldis",
+    "album": "Antes de que cuente diez",
+    "song": "Que Necesario Es El Rock&roll",
+    "datetime": "12 Jan 2017 12:36"
+  },
+  {
+    "artist": "Fito Y Fitipaldis",
+    "album": "Lo Mas Lejos A Tu Lado",
+    "song": "Vamono",
+    "datetime": "12 Jan 2017 12:31"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "album": "Hot Rocks 1964-1971",
+    "song": "Jumpin' Jack Flash",
+    "datetime": "12 Jan 2017 12:18"
+  },
+  {
+    "artist": "Eminem",
+    "album": "Relapse: Refill",
+    "song": "Beautiful",
+    "datetime": "12 Jan 2017 08:54"
+  },
+  {
+    "artist": "Eminem",
+    "album": "The Marshall Mathers LP (U.K. Only)",
+    "song": "Kill You",
+    "datetime": "12 Jan 2017 08:49"
+  },
+  {
+    "artist": "D12",
+    "album": "Devils Night",
+    "song": "Purple Pills",
+    "datetime": "12 Jan 2017 08:44"
+  },
+  {
+    "artist": "Eminem",
+    "album": "The Slim Shady LP (Explicit)",
+    "song": "My Name Is",
+    "datetime": "12 Jan 2017 08:42"
+  },
+  {
+    "artist": "Xhelazz",
+    "album": "El Soñador Elegido",
+    "song": "La soledad comienza",
+    "datetime": "12 Jan 2017 08:35"
+  },
+  {
+    "artist": "Violadores del Verso",
+    "album": "Vivir Para Contarlo",
+    "song": "Zombis",
+    "datetime": "12 Jan 2017 08:30"
+  },
+  {
+    "artist": "Kaotiko",
+    "album": "Kaotiko (Destino Escrito)",
+    "song": "¿Loco Yo?",
+    "datetime": "11 Jan 2017 11:01"
+  },
+  {
+    "artist": "Seguridad Social",
+    "album": "Las 100 mejores canciones del Rock español",
+    "song": "Accion",
+    "datetime": "11 Jan 2017 10:57"
+  },
+  {
+    "artist": "Kaotiko",
+    "album": "Mundo Kaotiko",
+    "song": "Otra Noche",
+    "datetime": "11 Jan 2017 10:54"
+  },
+  {
+    "artist": "Barricada",
+    "album": "Todo Barricada",
+    "song": "En Blanco Y Negro",
+    "datetime": "11 Jan 2017 10:49"
+  },
+  {
+    "artist": "La Polla Records",
+    "album": "No Somos Nada",
+    "song": "No Somos Nada",
+    "datetime": "11 Jan 2017 10:47"
+  },
+  {
+    "artist": "Lendakaris Muertos",
+    "album": "Se habla español",
+    "song": "Oso panda",
+    "datetime": "11 Jan 2017 10:45"
+  },
+  {
+    "artist": "La Pulquería",
+    "album": "Corridos De Amor",
+    "song": "El día de los muertos",
+    "datetime": "11 Jan 2017 10:41"
+  },
+  {
+    "artist": "Porretas",
+    "album": "12 botellines y 5 tercios",
+    "song": "Pongamos que hablo de Madrid",
+    "datetime": "11 Jan 2017 10:37"
+  },
+  {
+    "artist": "Los De Marras",
+    "album": "Oscuridad",
+    "song": "Malabares",
+    "datetime": "11 Jan 2017 10:33"
+  },
+  {
+    "artist": "Beyoncé",
+    "album": "BEYONCÉ [Platinum Edition]",
+    "song": "Haunted",
+    "datetime": "10 Jan 2017 13:08"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "album": "Born to Die - The Paradise Edition",
+    "song": "Video Games",
+    "datetime": "10 Jan 2017 13:03"
+  },
+  {
+    "artist": "Nirvana",
+    "album": "MTV Unplugged in New York",
+    "song": "Where Did You Sleep Last Night",
+    "datetime": "10 Jan 2017 12:58"
+  },
+  {
+    "artist": "Eric Clapton",
+    "album": "Unplugged [Deluxe]",
+    "song": "Layla",
+    "datetime": "10 Jan 2017 12:53"
+  },
+  {
+    "artist": "Tom Petty and The Heartbreakers",
+    "album": "Anthology: Through the Years",
+    "song": "Don't Come Around Here No More",
+    "datetime": "10 Jan 2017 12:48"
+  },
+  {
+    "artist": "Billy Idol",
+    "album": "Billy Idol",
+    "song": "White Wedding - Part 1 - 2001- Remaster",
+    "datetime": "10 Jan 2017 12:45"
+  },
+  {
+    "artist": "The Bangles",
+    "album": "The Essential Bangles",
+    "song": "Hazy Shade of Winter",
+    "datetime": "10 Jan 2017 12:42"
+  },
+  {
+    "artist": "Miles Davis",
+    "album": "Milestones",
+    "song": "Sid's Ahead",
+    "datetime": "10 Jan 2017 12:00"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "VOLAR",
+    "datetime": "10 Jan 2017 11:56"
+  },
+  {
+    "artist": "Woody Herman & His Orchestra",
+    "album": "The Essential Woody Herman",
+    "song": "Blue Flame - 78rpm Version",
+    "datetime": "10 Jan 2017 11:53"
+  },
+  {
+    "artist": "Fito & Fitipaldis",
+    "album": "Lo mas lejos a tu lado",
+    "song": "Las Nubes De Tu Pelo",
+    "datetime": "10 Jan 2017 11:28"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "NO TE VEO GOZAR",
+    "datetime": "09 Jan 2017 19:15"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "CON EL PERMISO DE USTEDES",
+    "datetime": "09 Jan 2017 18:58"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "El día de suerte de Pierre Nodoyuna",
+    "datetime": "09 Jan 2017 18:54"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "ME ALEGRA LA VISTA",
+    "datetime": "09 Jan 2017 18:51"
+  },
+  {
+    "artist": "Loquillo Y Los Trogloditas",
+    "album": "Feo Fuerte y Formal",
+    "song": "Feo Fuerte Y Formal",
+    "datetime": "09 Jan 2017 18:47"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "VENGAS CUANDO VENGAS",
+    "datetime": "09 Jan 2017 12:51"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "A dieta de dietas",
+    "datetime": "09 Jan 2017 12:47"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "No jodan la marrana",
+    "datetime": "09 Jan 2017 12:43"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "A DESOBEDECER",
+    "datetime": "09 Jan 2017 12:40"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "VENGAS CUANDO VENGAS",
+    "datetime": "09 Jan 2017 12:35"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Para Quedarte",
+    "datetime": "09 Jan 2017 12:30"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Querría",
+    "datetime": "09 Jan 2017 12:27"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Ante la Duda",
+    "datetime": "09 Jan 2017 12:24"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Ay Vida Mía (feat. Monsieur Periné)",
+    "datetime": "09 Jan 2017 12:20"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Llámame Fino",
+    "datetime": "09 Jan 2017 12:15"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Con las ganas",
+    "datetime": "09 Jan 2017 12:11"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Me Gusta",
+    "datetime": "09 Jan 2017 12:08"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Querría",
+    "datetime": "09 Jan 2017 12:03"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Querría",
+    "datetime": "09 Jan 2017 11:57"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Querría",
+    "datetime": "09 Jan 2017 11:53"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Instrucciones para Bailar un Vals",
+    "datetime": "09 Jan 2017 11:50"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Ante la Duda",
+    "datetime": "09 Jan 2017 11:48"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Canción Final",
+    "datetime": "09 Jan 2017 11:44"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Pudo Pasar",
+    "datetime": "09 Jan 2017 11:41"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "El DÍA DE SUERTE DE JUAN GÓMEZ",
+    "song": "A DESOBEDECER",
+    "datetime": "08 Jan 2017 18:20"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Agradecimientos",
+    "datetime": "08 Jan 2017 17:52"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Instrucciones para Bailar un Vals",
+    "datetime": "08 Jan 2017 17:48"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Me Gusta",
+    "datetime": "08 Jan 2017 17:44"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Ante la Duda",
+    "datetime": "08 Jan 2017 17:41"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Con las ganas",
+    "datetime": "08 Jan 2017 17:37"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Pudo Pasar",
+    "datetime": "08 Jan 2017 17:33"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Para Quedarte",
+    "datetime": "08 Jan 2017 17:29"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Canción Final",
+    "datetime": "08 Jan 2017 17:25"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Querría",
+    "datetime": "08 Jan 2017 17:20"
+  },
+  {
+    "artist": "El Kanka",
+    "album": "De Pana y Rubí",
+    "song": "Ay Vida Mía (feat. Monsieur Periné)",
+    "datetime": "08 Jan 2017 17:17"
+  },
+  {
+    "artist": "Billy Idol",
+    "album": "Billy Idol",
+    "song": "Dancing With Myself - 2001 Digital Remaster",
+    "datetime": "08 Jan 2017 17:05"
+  },
+  {
+    "artist": "A Flock of Seagulls",
+    "album": "I Ran (So Far Away)",
+    "song": "I Ran (So Far Away)",
+    "datetime": "08 Jan 2017 16:57"
+  },
+  {
+    "artist": "Rod Stewart",
+    "album": "A Night On The Town [Deluxe Edition]",
+    "song": "Tonight's the Night (Gonna Be Alright) - 2009 Remastered Version",
+    "datetime": "08 Jan 2017 16:53"
+  },
+  {
+    "artist": "Devo",
+    "album": "Freedom of Choice",
+    "song": "Whip It",
+    "datetime": "08 Jan 2017 16:51"
+  },
+  {
+    "artist": "The Buggles",
+    "album": "Video Killed The Radio Star / Kid Dynamo",
+    "song": "Video Killed The Radio Star - Single Version",
+    "datetime": "08 Jan 2017 16:47"
+  },
+  {
+    "artist": "Duran Duran",
+    "album": "Rio [Collector's Edition]",
+    "song": "Hungry Like The Wolf - 2009 Remastered Version",
+    "datetime": "08 Jan 2017 16:44"
+  },
+  {
+    "artist": "Eurythmics",
+    "album": "Live 1983-1989",
+    "song": "Sex Crime (1984) - Live",
+    "datetime": "08 Jan 2017 16:40"
+  },
+  {
+    "artist": "Billy Idol",
+    "album": "Billy Idol",
+    "song": "White Wedding - Part 1 - 2001- Remaster",
+    "datetime": "08 Jan 2017 16:36"
+  },
+  {
+    "artist": "The Bangles",
+    "album": "The Essential Bangles",
+    "song": "Hazy Shade of Winter",
+    "datetime": "08 Jan 2017 16:33"
+  },
+  {
+    "artist": "Modern Talking",
+    "album": "The First & Second Album (30th Anniversary Edition)",
+    "song": "You're My Heart You're My Soul",
+    "datetime": "08 Jan 2017 13:01"
+  },
+  {
+    "artist": "Sash!",
+    "album": "Locos por el Mix",
+    "song": "Mysterious Times",
+    "datetime": "08 Jan 2017 12:59"
+  },
+  {
+    "artist": "Fine Young Cannibals",
+    "album": "The Platinum Collection",
+    "song": "She Drives Me Crazy",
+    "datetime": "08 Jan 2017 12:54"
+  },
+  {
+    "artist": "Barry White",
+    "album": "Can't Get Enough",
+    "song": "Can't Get Enough Of Your Love Babe",
+    "datetime": "07 Jan 2017 22:58"
+  },
+  {
+    "artist": "Barry White",
+    "album": "The Ultimate Collection",
+    "song": "Just The Way You Are - Single Version",
+    "datetime": "07 Jan 2017 22:53"
+  },
+  {
+    "artist": "Barry White",
+    "album": "The Ultimate Collection",
+    "song": "Can't Get Enough Of Your Love Babe",
+    "datetime": "07 Jan 2017 22:51"
+  },
+  {
+    "artist": "Sly & The Family Stone",
+    "album": "There's a Riot Goin' On",
+    "song": "Family Affair - Single Version",
+    "datetime": "07 Jan 2017 22:47"
+  },
+  {
+    "artist": "Sly & The Family Stone",
+    "album": "The Essential Sly & The Family Stone",
+    "song": "Thank You (Falettinme Be Mice Elf Agin) - single master",
+    "datetime": "07 Jan 2017 22:43"
+  },
+  {
+    "artist": "James Brown",
+    "album": "20 All-Time Greatest Hits!",
+    "song": "Papa's Got A Brand New Bag",
+    "datetime": "07 Jan 2017 22:40"
+  },
+  {
+    "artist": "Tower of Power",
+    "album": "Tower Of Power",
+    "song": "What Is Hip?",
+    "datetime": "07 Jan 2017 22:35"
+  },
+  {
+    "artist": "George Clinton",
+    "album": "Greatest Hits: Straight Up",
+    "song": "Atomic Dog - 2000 - Remaster",
+    "datetime": "07 Jan 2017 22:31"
+  },
+  {
+    "artist": "James Brown",
+    "album": "20 All-Time Greatest Hits!",
+    "song": "Say It Loud - I'm Black And I'm Proud",
+    "datetime": "07 Jan 2017 22:28"
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Bad (Remastered)",
+    "song": "Smooth Criminal - 2012 Remaster",
+    "datetime": "07 Jan 2017 22:23"
+  },
+  {
+    "artist": "Eddie Kendricks",
+    "album": "The Eddie Kendricks Collection Volume 1",
+    "song": "Keep On Truckin'",
+    "datetime": "07 Jan 2017 20:19"
+  },
+  {
+    "artist": "Sly & The Family Stone",
+    "album": "There's a Riot Goin' On",
+    "song": "Family Affair - Single Version",
+    "datetime": "07 Jan 2017 20:16"
+  },
+  {
+    "artist": "George Clinton",
+    "album": "Greatest Hits: Straight Up",
+    "song": "Atomic Dog - 2000 - Remaster",
+    "datetime": "07 Jan 2017 20:11"
+  },
+  {
+    "artist": "Sly & The Family Stone",
+    "album": "The Essential Sly & The Family Stone",
+    "song": "Thank You (Falettinme Be Mice Elf Agin) - single master",
+    "datetime": "07 Jan 2017 20:07"
+  },
+  {
+    "artist": "The Isley Brothers",
+    "album": "It's Our Thing",
+    "song": "It's Your Thing",
+    "datetime": "07 Jan 2017 20:04"
+  },
+  {
+    "artist": "The Meters",
+    "album": "Funkify Your Life: The Meters Anthology",
+    "song": "Cissy Strut",
+    "datetime": "07 Jan 2017 20:01"
+  },
+  {
+    "artist": "The Meters",
+    "album": "Funkify Your Life: The Meters Anthology",
+    "song": "Sophisticated Cissy",
+    "datetime": "07 Jan 2017 19:58"
+  },
+  {
+    "artist": "The Clash",
+    "album": "Combat Rock",
+    "song": "Should I Stay or Should I Go",
+    "datetime": "07 Jan 2017 19:51"
+  },
+  {
+    "artist": "The Clash",
+    "album": "Combat Rock",
+    "song": "Should I Stay or Should I Go",
+    "datetime": "07 Jan 2017 19:47"
+  },
+  {
+    "artist": "Tower of Power",
+    "album": "Soul With A Capital S - The Best Of Tower Of Power",
+    "song": "Soul With A Capital 'S'",
+    "datetime": "07 Jan 2017 19:38"
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Thriller 25 Super Deluxe Edition",
+    "song": "Billie Jean - Single Version",
+    "datetime": "07 Jan 2017 19:35"
+  },
+  {
+    "artist": "James Brown",
+    "album": "The Singles Vol. 7: 1970-1972",
+    "song": "Sex Machine",
+    "datetime": "07 Jan 2017 12:59"
+  },
+  {
+    "artist": "Bee Gees",
+    "album": "Saturday Night Fever [The Original Movie Soundtrack]",
+    "song": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever",
+    "datetime": "07 Jan 2017 12:54"
+  },
+  {
+    "artist": "James Brown",
+    "album": "20 All-Time Greatest Hits!",
+    "song": "Papa's Got A Brand New Bag",
+    "datetime": "07 Jan 2017 12:52"
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Bad (Remastered)",
+    "song": "Smooth Criminal - 2012 Remaster",
+    "datetime": "07 Jan 2017 12:48"
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "song": "Thriller",
+    "datetime": "07 Jan 2017 12:42"
+  },
+  {
+    "artist": "James Brown",
+    "album": "Get On Up - The James Brown Story (Original Motion Picture Soundtrack)",
+    "song": "I Got You (I Feel Good)",
+    "datetime": "07 Jan 2017 12:38"
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Bad (Remastered)",
+    "song": "Bad - 2012 Remaster",
+    "datetime": "07 Jan 2017 12:32"
+  },
+  {
+    "artist": "Stevie Wonder",
+    "album": "Fulfillingness' First Finale (Reissue)",
+    "song": "You Haven't Done Nothin'",
+    "datetime": "07 Jan 2017 12:29"
+  },
+  {
+    "artist": "Michael Jackson",
+    "album": "Thriller 25 Super Deluxe Edition",
+    "song": "Billie Jean - Single Version",
+    "datetime": "07 Jan 2017 12:16"
+  },
+  {
+    "artist": "Stevie Wonder",
+    "album": "Number Ones",
+    "song": "Superstition",
+    "datetime": "07 Jan 2017 12:12"
+  },
+  {
+    "artist": "Marvin Gaye",
+    "album": "Midnight Love",
+    "song": "Sexual Healing",
+    "datetime": "07 Jan 2017 11:47"
+  },
+  {
+    "artist": "Little Richard",
+    "album": "Directly From My Heart: The Best of the Specialty & Vee-Jay Years",
+    "song": "She Knows How to Rock",
+    "datetime": "07 Jan 2017 11:43"
+  },
+  {
+    "artist": "Little Richard",
+    "album": "The Georgia Peach",
+    "song": "Tutti Frutti",
+    "datetime": "07 Jan 2017 11:40"
+  },
+  {
+    "artist": "Simple Minds",
+    "album": "Once Upon A Time",
+    "song": "Alive and Kicking",
+    "datetime": "06 Jan 2017 21:23"
+  },
+  {
+    "artist": "Marvin Gaye",
+    "album": "Anthology: The Best Of Marvin Gaye",
+    "song": "I Heard It Through The Grapevine - Single Version (Mono)",
+    "datetime": "06 Jan 2017 21:20"
+  },
+  {
+    "artist": "La Raíz",
+    "album": "Entre Poetas y Presos",
+    "song": "Radio Clandestina",
+    "datetime": "06 Jan 2017 20:20"
+  },
+  {
+    "artist": "Piperrak",
+    "album": "Arde Ribera",
+    "song": "Mi primer amor",
+    "datetime": "06 Jan 2017 20:17"
+  },
+  {
+    "artist": "Chic",
+    "album": "Chic",
+    "song": "Everybody Dance",
+    "datetime": "06 Jan 2017 13:06"
+  },
+  {
+    "artist": "Donna Summer",
+    "album": "Love to Love You Baby",
+    "song": "Love to Love You Baby",
+    "datetime": "06 Jan 2017 12:57"
+  },
+  {
+    "artist": "George McCrae",
+    "album": "Rock Your Baby",
+    "song": "Rock Your Baby",
+    "datetime": "06 Jan 2017 12:54"
+  },
+  {
+    "artist": "Willie Bobo",
+    "album": "Bobo Motion",
+    "song": "Evil Ways",
+    "datetime": "06 Jan 2017 12:51"
+  },
+  {
+    "artist": "Santana",
+    "album": "Santana (Legacy Edition)",
+    "song": "Fried Neck Bones And Some Home Fries",
+    "datetime": "06 Jan 2017 12:43"
+  },
+  {
+    "artist": "Santana",
+    "album": "Santana (Legacy Edition)",
+    "song": "Soul Sacrifice",
+    "datetime": "05 Jan 2017 14:10"
+  },
+  {
+    "artist": "Grateful Dead",
+    "album": "Workingman's Dead",
+    "song": "New Speedway Boogie",
+    "datetime": "05 Jan 2017 14:06"
+  },
+  {
+    "artist": "James Brown",
+    "album": "20 All-Time Greatest Hits!",
+    "song": "Papa's Got A Brand New Bag",
+    "datetime": "05 Jan 2017 14:04"
+  },
+  {
+    "artist": "James Brown",
+    "album": "20 All-Time Greatest Hits!",
+    "song": "Night Train - Single Version",
+    "datetime": "05 Jan 2017 14:01"
+  },
+  {
+    "artist": "James Brown",
+    "album": "20 All-Time Greatest Hits!",
+    "song": "Say It Loud - I'm Black And I'm Proud",
+    "datetime": "05 Jan 2017 13:57"
+  },
+  {
+    "artist": "The Four Tops",
+    "album": "The Definitive Collection",
+    "song": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+    "datetime": "05 Jan 2017 13:55"
+  },
+  {
+    "artist": "The Miracles",
+    "album": "Motown: The Complete No. 1's",
+    "song": "Shop Around",
+    "datetime": "05 Jan 2017 13:52"
+  },
+  {
+    "artist": "Smokey Robinson and The Miracles",
+    "album": "The Definitive Collection",
+    "song": "The Tracks of My Tears",
+    "datetime": "05 Jan 2017 13:49"
+  },
+  {
+    "artist": "Martha Reeves & The Vandellas",
+    "album": "Vocal Group Hall of Fame 2003 Live Induction Concerts Vol 2",
+    "song": "Dancing In The Streets",
+    "datetime": "05 Jan 2017 13:44"
+  },
+  {
+    "artist": "Little Richard",
+    "album": "Directly From My Heart: The Best of the Specialty & Vee-Jay Years",
+    "song": "She Knows How to Rock",
+    "datetime": "05 Jan 2017 13:42"
+  },
+  {
+    "artist": "Little Richard",
+    "album": "The Georgia Peach",
+    "song": "Tutti Frutti",
+    "datetime": "05 Jan 2017 13:40"
+  },
+  {
+    "artist": "Little Richard",
+    "album": "The Georgia Peach",
+    "song": "Keep A Knockin",
+    "datetime": "05 Jan 2017 13:38"
+  },
+  {
+    "artist": "Little Richard",
+    "album": "The Georgia Peach",
+    "song": "Rip It Up",
+    "datetime": "05 Jan 2017 13:35"
+  },
+  {
+    "artist": "Beyoncé",
+    "album": "I Am... Sasha Fierce",
+    "song": "Single Ladies (Put a Ring on It)",
+    "datetime": "05 Jan 2017 13:32"
+  },
+  {
+    "artist": "Avicii",
+    "album": "I Could Be The One [Avicii vs Nicky Romero]",
+    "song": "I Could Be The One (Avicii Vs. Nicky Romero) - Nicktim / Radio Edit",
+    "datetime": "05 Jan 2017 13:29"
+  },
+  {
+    "artist": "Peaches & Herb",
+    "album": "2 Hot!",
+    "song": "Shake Your Groove Thing",
+    "datetime": "05 Jan 2017 13:23"
+  },
+  {
+    "artist": "James Brown",
+    "album": "Gold",
+    "song": "Soul Power - Single Version",
+    "datetime": "05 Jan 2017 13:20"
+  },
+  {
+    "artist": "Daft Punk",
+    "album": "Random Access Memories",
+    "song": "Lose Yourself to Dance (feat. Pharrell Williams)",
+    "datetime": "05 Jan 2017 13:14"
+  },
+  {
+    "artist": "Los Gandules",
+    "album": "",
+    "song": "Mejenejando",
+    "datetime": "04 Jan 2017 20:01"
+  }
+]
