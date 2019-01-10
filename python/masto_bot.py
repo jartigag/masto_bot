@@ -7,10 +7,9 @@
 __author__ = "@jartigag"
 __version__ = "0.2"      # it toots a link to the song on youtube
 
+import blackbox
 import json
 from collections import OrderedDict
-from mastodon import Mastodon
-from secrets import access_token
 from time import sleep
 from datetime import datetime, timedelta
 import urllib.request
@@ -20,8 +19,6 @@ import re
 feedData = json.load(
 	open('../feed2.json'),object_pairs_hook=OrderedDict
 )[::-1] #reverse json list
-
-mastodon = Mastodon( access_token=access_token, api_base_url='https://botsin.space')
 
 i=0
 while i<len(feedData):
@@ -40,7 +37,10 @@ while i<len(feedData):
 		video = "https://www.youtu.be/" + search_results[0]
 
 		try:
-			toot = mastodon.toot( '{}, by {} \n♪ ♫ ♬\n#np #nowPlaying #inFact #2yearsAgo_playing\n{}'.format(d['song'],d['artist'],video) )
+			toot = blackbox.post(
+				'{}, by {} \n♪ ♫ ♬\n#np #nowPlaying #inFact #2yearsAgo_playing\n{}'.format(d['song'],d['artist'],video),
+				mastodon=True,verbose=False
+			)
 			print( '\nsuccessfully tooted at {}: {}'.format(toot.created_at.strftime('%Y-%m-%d %H:%M:%S'),toot.url) );
 			i+=1
 		except Exception as e:
